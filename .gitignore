@@ -1,0 +1,4 @@
+# ignore WebStorm service folder
+.idea/
+node_modules/
+*.map

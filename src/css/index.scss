@@ -1,0 +1,190 @@
+@import "variables";
+@import "rangeslider";
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../assets/fonts/Roboto-Regular.ttf') format('truetype');
+}
+
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+}
+.pre-loading-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 1000;
+  width: 100%;
+  height: 100%;
+  background-color: $white;
+}
+.content-container {
+  width: 100%;
+  max-width: 720px;
+  margin: 0 auto;
+}
+.chart-container {
+  margin: 10px 0;
+  border: 1px solid $blue-500;
+  background-color: $white;
+}
+#column-chart {
+  position: relative;
+  margin: 0 0 30px 30px;
+  >div {
+    flex: 1 1 5px;
+    margin: 0 1px 0 0;
+    background-color: $grey-500;
+    &:hover {
+      background-color: $grey-700;
+    }
+    &[data-active=true] {
+      background-color: $blue-500;
+      &:hover {
+        background-color: $blue-700;
+      }
+    }
+  }
+  >.x-axis-container {
+    position: absolute;
+    top: 100%;
+    .x-axis {
+      font: 12px sans-serif;
+      path, line {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges;
+      }
+    }
+  }
+  >.y-axis-container {
+    position: absolute;
+    right: 100%;
+    //padding-left: 25px;
+    overflow: visible;
+    .y-axis {
+      font: 12px sans-serif;
+      path, line {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges;
+      }
+    }
+  }
+}
+#bar-chart {
+  position: relative;
+  margin: 0 0 0 80px;
+  >.category {
+    position: relative;
+    flex: 0 0 5px;
+    margin: 0 0 1px 0;
+    padding: 2px;
+    color: $white;
+    font-size: 12px;
+    text-align: right;
+    &[title=chemistry]{
+      background-color: $orange-500;
+      &:hover {
+        background-color: $orange-700;
+      }
+    }
+    &[title=economics]{
+      background-color: $lightblue-500;
+      &:hover {
+        background-color: $lightblue-700;
+      }
+    }
+    &[title=literature]{
+      background-color: $brown-500;
+      &:hover {
+        background-color: $brown-700;
+      }
+    }
+    &[title=medicine]{
+      background-color: $lightgreen-500;
+      &:hover {
+        background-color: $lightgreen-700;
+      }
+    }
+    &[title=peace]{
+      background-color: $bluegrey-500;
+      &:hover {
+        background-color: $bluegrey-700;
+      }
+    }
+    &[title=physics]{
+      background-color: $red-500;
+      &:hover {
+        background-color: $red-700;
+      }
+    }
+    >.label {
+      position: absolute;
+      top: 2px;
+      right: 100%;
+      margin-right: 5px;
+      color: #000;
+      font-size: 14px;
+      line-height: 14px;
+      text-transform: capitalize;
+    }
+    >.x-axis-container {
+      .x-axis {
+        font: 12px sans-serif;
+        path, line {
+          fill: none;
+          stroke: #000;
+          shape-rendering: crispEdges;
+        }
+      }
+    }
+  }
+}
+#geo-chart {
+  position: relative;
+  width: 100%;
+  .land {
+    fill: $white;
+    fill-opacity: 1;
+    stroke: $black;
+    stroke-opacity: 1;
+    stroke-width: 0.5;
+    &:hover {
+      stroke: $grey-900;
+    }
+  }
+  .legend-container {
+    width: 100%;
+    margin-top: 10px;
+    .legend-tick {
+      display: block;
+      width: 20px;
+      height: 20px;
+      border: 1px solid #000000;
+      margin: 0 100px 5px 0;
+      white-space: nowrap;
+      text-indent: 25px;
+    }
+  }
+}
+.text-capitalize {
+  text-transform: capitalize;
+}
+.text-center {
+  text-align: center;
+}
+.x-axis {
+  font: 12px sans-serif;
+}
+.x-axis path,
+.x-axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}

@@ -1,0 +1,17 @@
+<div class="content-container" ng-init="initialize()">
+    <div class="chart-container md-padding">
+        <h3 class="text-center">Nobel prize winners per year</h3>
+        <div id="column-chart" layout="row" layout-align="space-between end"></div>
+        <div range-slider min="vm.range.min" max="vm.range.max" model-min="vm.value.min" model-max="vm.value.max" show-values="true" on-handle-up="setYearsRange()" ></div>
+    </div>
+
+    <div class="chart-container md-padding">
+        <h3 class="text-center">Nobel prize winners per category</h3>
+        <div id="bar-chart" layout="column" layout-align="start start"></div>
+    </div>
+
+    <div class="chart-container md-padding">
+        <h3 class="text-center">Nobel prize winners per country</h3>
+        <div id="geo-chart"></div>
+    </div>
+</div>

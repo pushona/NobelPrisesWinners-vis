@@ -1,0 +1,283 @@
+/* Physics */
+/* Economics */
+/* Economics */
+/* Economics */
+/* Medicine */
+/* Chemistry */
+/* SETTINGS */
+/* Physics */
+/* Economics */
+/* Economics */
+/* Economics */
+/* Medicine */
+/* Chemistry */
+/* handle dimensions */
+/* thickness of the join line */
+/* padding between the border and the handles */
+/* define the height of the slider when in vertical mode */
+/* THE CSS */
+.ngrs-range-slider {
+  /* RESETS */
+  position: relative;
+  margin: 10px 0 20px 30px;
+  padding: 0;
+  border: 0;
+  background: #FFFFFF;
+  transition: border linear .2s;
+  -webkit-tap-highlight-color: transparent;
+  /* RUNNER */
+  /* JOIN (connects the two handles) */
+  /* BAR (horizontal plank behind join ) */
+  /* HANDLE */
+  /* VALUE LABELS */
+  /* ATTACHED VALUE RUNNER */
+  /* FOCUS STATE */
+  /* DISABLED STATE */ }
+  .ngrs-range-slider, .ngrs-range-slider * {
+    display: block;
+    cursor: default;
+    box-sizing: border-box;
+    user-select: none; }
+  .ngrs-range-slider .ngrs-runner {
+    position: relative;
+    margin: 0 3px;
+    height: 18px; }
+    .ngrs-range-slider .ngrs-runner:after {
+      content: " ";
+      position: absolute;
+      z-index: 0;
+      top: 50%;
+      left: 0;
+      right: 100%;
+      width: 100%;
+      height: 4px;
+      margin: -2px 0 0 0;
+      background-color: #BDBDBD; }
+  .ngrs-range-slider .ngrs-join {
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    left: 0;
+    right: 100%;
+    height: 4px;
+    margin: -2px 0 0 0;
+    border-radius: 2px;
+    background: linear-gradient(90deg, #F48FB1, #C2185B); }
+  .ngrs-range-slider .ngrs-bar {
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    left: 0;
+    right: 100%;
+    height: 4px;
+    margin: -2px 0 0 0;
+    background-color: #EEEEEE; }
+  .ngrs-range-slider .ngrs-handle {
+    position: absolute;
+    z-index: 2;
+    height: 100%;
+    width: 6px;
+    margin: 0 0 0 -3px;
+    border-radius: 0; }
+    .ngrs-range-slider .ngrs-handle i {
+      display: none; }
+    .ngrs-range-slider .ngrs-handle.ngrs-handle-min {
+      background-color: #F48FB1;
+      border: 1px solid #F48FB1; }
+    .ngrs-range-slider .ngrs-handle.ngrs-handle-max {
+      background-color: #C2185B;
+      border: 1px solid #C2185B; }
+  .ngrs-range-slider .ngrs-value {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    padding: 5px 0 0 0;
+    font-size: 12px;
+    color: #999; }
+    .ngrs-range-slider .ngrs-value.ngrs-value-max {
+      left: auto;
+      right: 0;
+      text-align: right; }
+  .ngrs-range-slider.ngrs-handle-min-down .ngrs-value-min, .ngrs-range-slider.ngrs-handle-max-down .ngrs-value-max {
+    color: #333; }
+  .ngrs-range-slider .ngrs-attached-handles {
+    margin: 0 9px;
+    position: relative;
+    /* ATTACHED VALUE RUNNER LABELS */ }
+    .ngrs-range-slider .ngrs-attached-handles .ngrs-value {
+      text-align: left; }
+    .ngrs-range-slider .ngrs-attached-handles .ngrs-value > div {
+      margin: 0 0 0 -50%; }
+  .ngrs-range-slider.ngrs-focus {
+    border-color: rgba(82, 168, 236, 0.8); }
+  .ngrs-range-slider.ngrs-disabled, .ngrs-range-slider.ngrs-disabled.ngrs-focus {
+    border-color: #ddd; }
+  .ngrs-range-slider.ngrs-disabled .ngrs-handle {
+    background: #fff;
+    border-color: #ddd; }
+    .ngrs-range-slider.ngrs-disabled .ngrs-handle i {
+      background: none !important;
+      cursor: default; }
+  .ngrs-range-slider.ngrs-disabled .ngrs-join {
+    background: #ddd; }
+  .ngrs-range-slider.ngrs-disabled .ngrs-value {
+    color: #ddd; }
+
+/* TOUCH STATE */
+body.ngrs-touching {
+  /* prevents the user from panning or zooming while they are using the slider */
+  -ms-touch-action: none; }
+
+@font-face {
+  font-family: 'Roboto';
+  src: url("../assets/fonts/Roboto-Regular.ttf") format("truetype"); }
+* {
+  box-sizing: border-box; }
+
+body {
+  font-family: 'Roboto', sans-serif; }
+
+.pre-loading-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 1000;
+  width: 100%;
+  height: 100%;
+  background-color: #FFFFFF; }
+
+.content-container {
+  width: 100%;
+  max-width: 720px;
+  margin: 0 auto; }
+
+.chart-container {
+  margin: 10px 0;
+  border: 1px solid #2196F3;
+  background-color: #FFFFFF; }
+
+#column-chart {
+  position: relative;
+  margin: 0 0 30px 30px; }
+  #column-chart > div {
+    flex: 1 1 5px;
+    margin: 0 1px 0 0;
+    background-color: #9E9E9E; }
+    #column-chart > div:hover {
+      background-color: #616161; }
+    #column-chart > div[data-active=true] {
+      background-color: #2196F3; }
+      #column-chart > div[data-active=true]:hover {
+        background-color: #1976D2; }
+  #column-chart > .x-axis-container {
+    position: absolute;
+    top: 100%; }
+    #column-chart > .x-axis-container .x-axis {
+      font: 12px sans-serif; }
+      #column-chart > .x-axis-container .x-axis path, #column-chart > .x-axis-container .x-axis line {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges; }
+  #column-chart > .y-axis-container {
+    position: absolute;
+    right: 100%;
+    overflow: visible; }
+    #column-chart > .y-axis-container .y-axis {
+      font: 12px sans-serif; }
+      #column-chart > .y-axis-container .y-axis path, #column-chart > .y-axis-container .y-axis line {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges; }
+
+#bar-chart {
+  position: relative;
+  margin: 0 0 0 80px; }
+  #bar-chart > .category {
+    position: relative;
+    flex: 0 0 5px;
+    margin: 0 0 1px 0;
+    padding: 2px;
+    color: #FFFFFF;
+    font-size: 12px;
+    text-align: right; }
+    #bar-chart > .category[title=chemistry] {
+      background-color: #FF9800; }
+      #bar-chart > .category[title=chemistry]:hover {
+        background-color: #F57C00; }
+    #bar-chart > .category[title=economics] {
+      background-color: #03A9F4; }
+      #bar-chart > .category[title=economics]:hover {
+        background-color: #0288D1; }
+    #bar-chart > .category[title=literature] {
+      background-color: #795548; }
+      #bar-chart > .category[title=literature]:hover {
+        background-color: #5D4037; }
+    #bar-chart > .category[title=medicine] {
+      background-color: #8BC34A; }
+      #bar-chart > .category[title=medicine]:hover {
+        background-color: #689F38; }
+    #bar-chart > .category[title=peace] {
+      background-color: #607D8B; }
+      #bar-chart > .category[title=peace]:hover {
+        background-color: #455A64; }
+    #bar-chart > .category[title=physics] {
+      background-color: #F44336; }
+      #bar-chart > .category[title=physics]:hover {
+        background-color: #d32f2f; }
+    #bar-chart > .category > .label {
+      position: absolute;
+      top: 2px;
+      right: 100%;
+      margin-right: 5px;
+      color: #000;
+      font-size: 14px;
+      line-height: 14px;
+      text-transform: capitalize; }
+    #bar-chart > .category > .x-axis-container .x-axis {
+      font: 12px sans-serif; }
+      #bar-chart > .category > .x-axis-container .x-axis path, #bar-chart > .category > .x-axis-container .x-axis line {
+        fill: none;
+        stroke: #000;
+        shape-rendering: crispEdges; }
+
+#geo-chart {
+  position: relative;
+  width: 100%; }
+  #geo-chart .land {
+    fill: #FFFFFF;
+    fill-opacity: 1;
+    stroke: #000000;
+    stroke-opacity: 1;
+    stroke-width: 0.5; }
+    #geo-chart .land:hover {
+      stroke: #212121; }
+  #geo-chart .legend-container {
+    width: 100%;
+    margin-top: 10px; }
+    #geo-chart .legend-container .legend-tick {
+      display: block;
+      width: 20px;
+      height: 20px;
+      border: 1px solid #000000;
+      margin: 0 100px 5px 0;
+      white-space: nowrap;
+      text-indent: 25px; }
+
+.text-capitalize {
+  text-transform: capitalize; }
+
+.text-center {
+  text-align: center; }
+
+.x-axis {
+  font: 12px sans-serif; }
+
+.x-axis path,
+.x-axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges; }
+
+/*# sourceMappingURL=index.css.map */

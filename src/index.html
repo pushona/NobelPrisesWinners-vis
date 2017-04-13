@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="app">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Nobel Prize Winners</title>
+    <!--build:css css/styles.min.css -->
+    <link rel="stylesheet" href="../node_modules/angular-material/angular-material.min.css">
+    <link rel="stylesheet" href="css/index.css">
+    <!-- endbuild -->
+</head>
+<body ng-controller="AppController" ng-cloak layout="row">
+<!-- OVERLAY -->
+<div class="pre-loading-overlay" ng-hide="vm.isAppReady"></div>
+<!-- LEFT SIDENAV -->
+<md-sidenav flex layout="column" class="md-sidenav-left md-whiteframe-4dp" md-component-id="left" md-is-locked-open="true">
+    <!--Sidenav toolbar-->
+    <md-toolbar>
+        <div class="md-toolbar-tools">
+            <span flex></span>
+            <md-button class="md-icon-button" aria-label="Settings" ng-click="toggleSidenav()" ng-hide="true">
+                <md-icon md-svg-icon="menu"></md-icon>
+            </md-button>
+        </div>
+    </md-toolbar>
+    <md-content flex layout="column" ng-include="'templates/sidenav.html'"></md-content>
+</md-sidenav>
+<!-- FULL SCREEN -->
+<md-content flex layout="column">
+    <md-toolbar>
+        <div class="md-toolbar-tools">
+            <md-button class="md-icon-button" aria-label="Settings" ng-click="toggleSidenav()" ng-hide="true">
+                <md-icon md-svg-icon="menu"></md-icon>
+            </md-button>
+            <span flex></span>
+        </div>
+    </md-toolbar>
+    <md-content flex layout="row" layout-align="stretch stretch" ng-include="'templates/content.html'"></md-content>
+</md-content>
+
+<!--build:js js/scripts.min.js -->
+<script src="../node_modules/jquery/dist/jquery.min.js"></script>
+<script src="../node_modules/d3/d3.min.js"></script>
+<script src="../node_modules/angular/angular.min.js"></script>
+<script src="../node_modules/angular-animate/angular-animate.min.js"></script>
+<script src="../node_modules/angular-aria/angular-aria.min.js"></script>
+<script src="../node_modules/angular-material/angular-material.min.js"></script>
+<script src="../node_modules/angular-rangeslider/angular.rangeSlider.js"></script>
+<script src="js/app.module.js"></script>
+<script src="js/app.config.js"></script>
+<script src="js/app.controller.js"></script>
+<script src="js/app.service.js"></script>
+<script src="js/utils.service.js"></script>
+<!-- endbuild -->
+</body>
+</html>

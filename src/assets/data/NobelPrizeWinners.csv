@@ -1,0 +1,913 @@
+year,firstname,surname,category,country,countryCode,lat,long,gender
+1901,Emil Adolf,von Behring,medicine,Prussia (now Poland),PL,51.919438,19.145136,male
+1901,Fr�d�ric,Passy,peace,France,FR,46.227638,2.213749,male
+1901,Jacobus Henricus,van 't Hoff,chemistry,the Netherlands,NL,52.132633,5.291266,male
+1901,Jean Henry,Dunant,peace,Switzerland,CH,46.818188,8.227512,male
+1901,Sully,Prudhomme,literature,France,FR,46.227638,2.213749,male
+1901,Wilhelm Conrad,R�ntgen,physics,Prussia (now Germany),DE,51.165691,10.451526,male
+1902,Charles Albert,Gobat,peace,Switzerland,CH,46.818188,8.227512,male
+1902,Christian Matthias Theodor,Mommsen,literature,Schleswig (now Germany),DE,51.165691,10.451526,male
+1902,Elie,Ducommun,peace,Switzerland,CH,46.818188,8.227512,male
+1902,Hendrik Antoon,Lorentz,physics,the Netherlands,NL,52.132633,5.291266,male
+1902,Hermann Emil,Fischer,chemistry,Prussia (now Germany),DE,51.165691,10.451526,male
+1902,Pieter,Zeeman,physics,the Netherlands,NL,52.132633,5.291266,male
+1902,Ronald,Ross,medicine,India,IN,20.593684,78.96288,male
+1903,Antoine Henri,Becquerel,physics,France,FR,46.227638,2.213749,male
+1903,Bj�rnstjerne Martinus,Bj�rnson,literature,Norway,NO,60.472024,8.468946,male
+1903,Marie,"Curie, nee Sklodowska",physics,Russian Empire (now Poland),PL,51.919438,19.145136,female
+1903,Niels Ryberg,Finsen,medicine,Faroe Islands (Denmark),DK,56.26392,9.501785,male
+1903,Pierre,Curie,physics,France,FR,46.227638,2.213749,male
+1903,Svante August,Arrhenius,chemistry,Sweden,SE,60.128161,18.643501,male
+1903,William Randal,Cremer,peace,United Kingdom,GB,55.378051,-3.435973,male
+1904,Fr�d�ric,Mistral,literature,France,FR,46.227638,2.213749,male
+1904,Institut de droit international (Institute of International Law),,peace,,,,,organisation
+1904,Ivan Petrovich,Pavlov,medicine,Russia,RU,61.52401,105.318756,male
+1904,Jos�,Echegaray y Eizaguirre,literature,Spain,ES,40.463667,-3.74922,male
+1904,Lord Rayleigh,(John William Strutt),physics,United Kingdom,GB,55.378051,-3.435973,male
+1904,Sir William,Ramsay,chemistry,Scotland,GB,55.378051,-3.435973,male
+1905,Baroness Bertha Sophie Felicita,"von Suttner, nee Countess Kinsky von Chinic und Tettau",peace,Austrian Empire (now Czech Republic),CZ,49.817492,15.472962,female
+1905,Henryk,Sienkiewicz,literature,Poland,PL,51.919438,19.145136,male
+1905,Johann Friedrich Wilhelm Adolf,von Baeyer,chemistry,Prussia (now Germany),DE,51.165691,10.451526,male
+1905,Philipp Eduard Anton,von Lenard,physics,Hungary (now Slovakia),SK,48.669026,19.699024,male
+1905,Robert,Koch,medicine,Germany,DE,51.165691,10.451526,male
+1906,Camillo,Golgi,medicine,Italy,IT,41.87194,12.56738,male
+1906,Giosu�,Carducci,literature,Tuscany (now Italy),IT,41.87194,12.56738,male
+1906,Henri,Moissan,chemistry,France,FR,46.227638,2.213749,male
+1906,Joseph John,Thomson,physics,United Kingdom,GB,55.378051,-3.435973,male
+1906,Santiago,Ramon y Cajal,medicine,Spain,ES,40.463667,-3.74922,male
+1906,Theodore,Roosevelt,peace,USA,US,37.09024,-95.712891,male
+1907,Albert Abraham,Michelson,physics,Prussia (now Poland),PL,51.919438,19.145136,male
+1907,Charles Louis Alphonse,Laveran,medicine,France,FR,46.227638,2.213749,male
+1907,Eduard,Buchner,chemistry,Bavaria (now Germany),DE,51.165691,10.451526,male
+1907,Ernesto Teodoro,Moneta,peace,Austrian Empire (now Italy),IT,41.87194,12.56738,male
+1907,Louis,Renault,peace,France,FR,46.227638,2.213749,male
+1907,Rudyard,Kipling,literature,British India (now India),IN,20.593684,78.96288,male
+1908,Paul,Ehrlich,medicine,Prussia (now Poland),PL,51.919438,19.145136,male
+1908,Ernest,Rutherford,chemistry,New Zealand,NZ,-40.900557,174.885971,male
+1908,Fredrik,Bajer,peace,Denmark,DK,56.26392,9.501785,male
+1908,Gabriel,Lippmann,physics,Luxembourg,LU,49.815273,6.129583,male
+1908,Ilya Ilyich,Mechnikov,medicine,Russian Empire (now Ukraine),UA,48.379433,31.16558,male
+1908,Klas Pontus,Arnoldson,peace,Sweden,SE,60.128161,18.643501,male
+1908,Rudolf Christoph,Eucken,literature,East Friesland (now Germany),DE,51.165691,10.451526,male
+1909,Auguste Marie Fran�ois,Beernaert,peace,Belgium,BE,50.503887,4.469936,male
+1909,Emil Theodor,Kocher,medicine,Switzerland,CH,46.818188,8.227512,male
+1909,Guglielmo,Marconi,physics,Italy,IT,41.87194,12.56738,male
+1909,Karl Ferdinand,Braun,physics,Hesse-Kassel (now Germany),DE,51.165691,10.451526,male
+1909,Paul Henri Benjamin Balluet,"d'Estournelles de Constant, Baron de Constant de Rebecque",peace,France,FR,46.227638,2.213749,male
+1909,Selma Ottilia Lovisa,Lagerl�f,literature,Sweden,SE,60.128161,18.643501,female
+1909,Wilhelm,Ostwald,chemistry,Russian Empire (now Latvia),LV,56.879635,24.603189,male
+1910,Albrecht,Kossel,medicine,Mecklenburg (now Germany),DE,51.165691,10.451526,male
+1910,Bureau international permanent de la Paix (Permanent International Peace Bureau),,peace,,,,,organisation
+1910,Johannes Diderik,van der Waals,physics,the Netherlands,NL,52.132633,5.291266,male
+1910,Otto,Wallach,chemistry,Germany (now Russia),RU,61.52401,105.318756,male
+1910,Paul Johann Ludwig,Heyse,literature,Prussia (now Germany),DE,51.165691,10.451526,male
+1911,Alfred Hermann,Fried,peace,Austria,AT,47.516231,14.550072,male
+1911,Allvar,Gullstrand,medicine,Sweden,SE,60.128161,18.643501,male
+1911,Count Maurice (Mooris) Polidore Marie Bernhard,Maeterlinck,literature,Belgium,BE,50.503887,4.469936,male
+1911,Marie,"Curie, nee Sklodowska",chemistry,Russian Empire (now Poland),PL,51.919438,19.145136,female
+1911,Tobias Michael Carel,Asser,peace,the Netherlands,NL,52.132633,5.291266,male
+1911,Wilhelm,Wien,physics,Prussia (now Russia),RU,61.52401,105.318756,male
+1912,Alexis,Carrel,medicine,France,FR,46.227638,2.213749,male
+1912,Elihu,Root,peace,USA,US,37.09024,-95.712891,male
+1912,Gerhart Johann Robert,Hauptmann,literature,Prussia (now Germany),DE,51.165691,10.451526,male
+1912,Nils Gustaf,Dal�n,physics,Sweden,SE,60.128161,18.643501,male
+1912,Paul,Sabatier,chemistry,France,FR,46.227638,2.213749,male
+1912,Victor,Grignard,chemistry,France,FR,46.227638,2.213749,male
+1913,Alfred,Werner,chemistry,France,FR,46.227638,2.213749,male
+1913,Charles Robert,Richet,medicine,France,FR,46.227638,2.213749,male
+1913,Heike,Kamerlingh Onnes,physics,the Netherlands,NL,52.132633,5.291266,male
+1913,Henri,La Fontaine,peace,Belgium,BE,50.503887,4.469936,male
+1913,Rabindranath,Tagore,literature,India,IN,20.593684,78.96288,male
+1914,Max,von Laue,physics,Germany,DE,51.165691,10.451526,male
+1914,Robert,B�r�ny,medicine,Austria,AT,47.516231,14.550072,male
+1914,Theodore William,Richards,chemistry,USA,US,37.09024,-95.712891,male
+1915,Richard Martin,Willst�tter,chemistry,Germany,DE,51.165691,10.451526,male
+1915,Romain,Rolland,literature,France,FR,46.227638,2.213749,male
+1915,Sir William Henry,Bragg,physics,United Kingdom,GB,55.378051,-3.435973,male
+1915,William Lawrence,Bragg,physics,Australia,AU,-25.274398,133.775136,male
+1916,Carl Gustaf Verner,von Heidenstam,literature,Sweden,SE,60.128161,18.643501,male
+1917,Charles Glover,Barkla,physics,United Kingdom,GB,55.378051,-3.435973,male
+1917,Comit� international de la Croix Rouge (International Committee of the Red Cross),,peace,,,,,organisation
+1917,Henrik,Pontoppidan,literature,Denmark,DK,56.26392,9.501785,male
+1917,Karl Adolph,Gjellerup,literature,Denmark,DK,56.26392,9.501785,male
+1918,Fritz,Haber,chemistry,Prussia (now Poland),PL,51.919438,19.145136,male
+1918,Max Karl Ernst Ludwig,Planck,physics,Schleswig (now Germany),DE,51.165691,10.451526,male
+1919,Carl Friedrich Georg,Spitteler,literature,Switzerland,CH,46.818188,8.227512,male
+1919,Johannes,Stark,physics,Germany,DE,51.165691,10.451526,male
+1919,Jules,Bordet,medicine,Belgium,BE,50.503887,4.469936,male
+1919,Thomas Woodrow,Wilson,peace,USA,US,37.09024,-95.712891,male
+1920,Charles Edouard,Guillaume,physics,Switzerland,CH,46.818188,8.227512,male
+1920,Knut Pedersen,Hamsun,literature,Norway,NO,60.472024,8.468946,male
+1920,L�on Victor Auguste,Bourgeois,peace,France,FR,46.227638,2.213749,male
+1920,Schack August Steenberg,Krogh,medicine,Denmark,DK,56.26392,9.501785,male
+1920,Walther Hermann,Nernst,chemistry,Prussia (now Germany),DE,51.165691,10.451526,male
+1921,Albert,Einstein,physics,Germany,DE,51.165691,10.451526,male
+1921,Anatole,France,literature,France,FR,46.227638,2.213749,male
+1921,Christian Lous,Lange,peace,Norway,NO,60.472024,8.468946,male
+1921,Frederick,Soddy,chemistry,United Kingdom,GB,55.378051,-3.435973,male
+1921,Karl Hjalmar,Branting,peace,Sweden,SE,60.128161,18.643501,male
+1922,Archibald Vivian,Hill,medicine,United Kingdom,GB,55.378051,-3.435973,male
+1922,Francis William,Aston,chemistry,United Kingdom,GB,55.378051,-3.435973,male
+1922,Fridtjof,Nansen,peace,Norway,NO,60.472024,8.468946,male
+1922,Jacinto,Benavente,literature,Spain,ES,40.463667,-3.74922,male
+1922,Niels Henrik David,Bohr,physics,Denmark,DK,56.26392,9.501785,male
+1922,Otto Fritz,Meyerhof,medicine,Germany,DE,51.165691,10.451526,male
+1923,Frederick Grant,Banting,medicine,Canada,CA,56.130366,-106.346771,male
+1923,Fritz,Pregl,chemistry,Austria-Hungary (now Slovenia),SI,46.151241,14.995463,male
+1923,John James Rickard,Macleod,medicine,Scotland,GB,55.378051,-3.435973,male
+1923,Robert Andrews,Millikan,physics,USA,US,37.09024,-95.712891,male
+1923,William Butler,Yeats,literature,Ireland,IE,53.41291,-8.24389,male
+1924,Karl Manne Georg,Siegbahn,physics,Sweden,SE,60.128161,18.643501,male
+1924,Willem,Einthoven,medicine,"Java, Dutch East Indies (now Indonesia)",ID,-0.789275,113.921327,male
+1924,Wladyslaw Stanislaw,Reymont,literature,Russian Empire (now Poland),PL,51.919438,19.145136,male
+1925,Charles Gates,Dawes,peace,USA,US,37.09024,-95.712891,male
+1925,George Bernard,Shaw,literature,Ireland,IE,53.41291,-8.24389,male
+1925,Gustav Ludwig,Hertz,physics,Germany,DE,51.165691,10.451526,male
+1925,James,Franck,physics,Germany,DE,51.165691,10.451526,male
+1925,Richard Adolf,Zsigmondy,chemistry,Austrian Empire (now Austria),AT,47.516231,14.550072,male
+1925,Sir Austen,Chamberlain,peace,United Kingdom,GB,55.378051,-3.435973,male
+1926,Aristide,Briand,peace,France,FR,46.227638,2.213749,male
+1926,Grazia,Deledda,literature,Italy,IT,41.87194,12.56738,female
+1926,Gustav,Stresemann,peace,Germany,DE,51.165691,10.451526,male
+1926,Jean Baptiste,Perrin,physics,France,FR,46.227638,2.213749,male
+1926,Johannes Andreas Grib,Fibiger,medicine,Denmark,DK,56.26392,9.501785,male
+1926,The (Theodor),Svedberg,chemistry,Sweden,SE,60.128161,18.643501,male
+1927,Arthur Holly,Compton,physics,USA,US,37.09024,-95.712891,male
+1927,Charles Thomson Rees,Wilson,physics,Scotland,GB,55.378051,-3.435973,male
+1927,Ferdinand,Buisson,peace,France,FR,46.227638,2.213749,male
+1927,Heinrich Otto,Wieland,chemistry,Germany,DE,51.165691,10.451526,male
+1927,Henri,Bergson,literature,France,FR,46.227638,2.213749,male
+1927,Julius,Wagner-Jauregg,medicine,Austria,AT,47.516231,14.550072,male
+1927,Ludwig,Quidde,peace,Germany,DE,51.165691,10.451526,male
+1928,Adolf Otto Reinhold,Windaus,chemistry,Germany,DE,51.165691,10.451526,male
+1928,Charles Jules Henri,Nicolle,medicine,France,FR,46.227638,2.213749,male
+1928,Owen Willans,Richardson,physics,United Kingdom,GB,55.378051,-3.435973,male
+1928,Sigrid,Undset,literature,Denmark,DK,56.26392,9.501785,female
+1929,Arthur,Harden,chemistry,United Kingdom,GB,55.378051,-3.435973,male
+1929,Christiaan,Eijkman,medicine,the Netherlands,NL,52.132633,5.291266,male
+1929,Frank Billings,Kellogg,peace,USA,US,37.09024,-95.712891,male
+1929,Hans Karl August Simon,von Euler-Chelpin,chemistry,Germany,DE,51.165691,10.451526,male
+1929,Prince Louis-Victor Pierre Raymond,de Broglie,physics,France,FR,46.227638,2.213749,male
+1929,Sir Frederick Gowland,Hopkins,medicine,United Kingdom,GB,55.378051,-3.435973,male
+1929,Thomas,Mann,literature,Germany,DE,51.165691,10.451526,male
+1930,Hans,Fischer,chemistry,Germany,DE,51.165691,10.451526,male
+1930,Karl,Landsteiner,medicine,Austrian Empire (now Austria),AT,47.516231,14.550072,male
+1930,Lars Olof Jonathan (Nathan),S�derblom,peace,Sweden,SE,60.128161,18.643501,male
+1930,Sinclair,Lewis,literature,USA,US,37.09024,-95.712891,male
+1930,Sir Chandrasekhara Venkata,Raman,physics,India,IN,20.593684,78.96288,male
+1931,Carl,Bosch,chemistry,Germany,DE,51.165691,10.451526,male
+1931,Friedrich,Bergius,chemistry,Germany (now Poland),PL,51.919438,19.145136,male
+1931,Erik Axel,Karlfeldt,literature,Sweden,SE,60.128161,18.643501,male
+1931,Jane,Addams,peace,USA,US,37.09024,-95.712891,female
+1931,Nicholas Murray,Butler,peace,USA,US,37.09024,-95.712891,male
+1931,Otto Heinrich,Warburg,medicine,Germany,DE,51.165691,10.451526,male
+1932,Edgar Douglas,Adrian,medicine,United Kingdom,GB,55.378051,-3.435973,male
+1932,Irving,Langmuir,chemistry,USA,US,37.09024,-95.712891,male
+1932,John,Galsworthy,literature,United Kingdom,GB,55.378051,-3.435973,male
+1932,Sir Charles Scott,Sherrington,medicine,United Kingdom,GB,55.378051,-3.435973,male
+1932,Werner Karl,Heisenberg,physics,Germany,DE,51.165691,10.451526,male
+1933,Erwin,Schr�dinger,physics,Austria,AT,47.516231,14.550072,male
+1933,Ivan Alekseyevich,Bunin,literature,Russia,RU,61.52401,105.318756,male
+1933,Paul Adrien Maurice,Dirac,physics,United Kingdom,GB,55.378051,-3.435973,male
+1933,Sir Norman,Angell (Ralph Lane),peace,United Kingdom,GB,55.378051,-3.435973,male
+1933,Thomas Hunt,Morgan,medicine,USA,US,37.09024,-95.712891,male
+1934,William Parry,Murphy,medicine,USA,US,37.09024,-95.712891,male
+1934,Arthur,Henderson,peace,Scotland,GB,55.378051,-3.435973,male
+1934,George Hoyt,Whipple,medicine,USA,US,37.09024,-95.712891,male
+1934,George Richards,Minot,medicine,USA,US,37.09024,-95.712891,male
+1934,Harold Clayton,Urey,chemistry,USA,US,37.09024,-95.712891,male
+1934,Luigi,Pirandello,literature,Italy,IT,41.87194,12.56738,male
+1935,Carl,von Ossietzky,peace,Germany,DE,51.165691,10.451526,male
+1935,Fr�d�ric,Joliot,chemistry,France,FR,46.227638,2.213749,male
+1935,Hans,Spemann,medicine,Germany,DE,51.165691,10.451526,male
+1935,Ir�ne,Joliot-Curie,chemistry,France,FR,46.227638,2.213749,female
+1935,James,Chadwick,physics,United Kingdom,GB,55.378051,-3.435973,male
+1936,Petrus (Peter) Josephus Wilhelmus,Debye,chemistry,the Netherlands,NL,52.132633,5.291266,male
+1936,Carl David,Anderson,physics,USA,US,37.09024,-95.712891,male
+1936,Carlos,Saavedra Lamas,peace,Argentina,AR,-38.416097,-63.616672,male
+1936,Eugene Gladstone,O'Neill,literature,USA,US,37.09024,-95.712891,male
+1936,Otto,Loewi,medicine,Germany,DE,51.165691,10.451526,male
+1936,Sir Henry Hallett,Dale,medicine,United Kingdom,GB,55.378051,-3.435973,male
+1936,Victor Franz,Hess,physics,Austria,AT,47.516231,14.550072,male
+1937,Albert,von Szent-Gy�rgyi Nagyr�polt,medicine,Austria-Hungary (now Hungary),HU,47.162494,19.503304,male
+1937,"Cecil of Chelwood, Viscount",(Lord Edgar Algernon Robert Gascoyne Cecil),peace,United Kingdom,GB,55.378051,-3.435973,male
+1937,Clinton Joseph,Davisson,physics,USA,US,37.09024,-95.712891,male
+1937,George Paget,Thomson,physics,United Kingdom,GB,55.378051,-3.435973,male
+1937,Paul,Karrer,chemistry,Russia,RU,61.52401,105.318756,male
+1937,Roger,Martin du Gard,literature,France,FR,46.227638,2.213749,male
+1937,Walter Norman,Haworth,chemistry,United Kingdom,GB,55.378051,-3.435973,male
+1938,Richard,Kuhn,chemistry,Austria-Hungary (now Austria),AT,47.516231,14.550072,male
+1938,Corneille Jean Fran�ois,Heymans,medicine,Belgium,BE,50.503887,4.469936,male
+1938,Enrico,Fermi,physics,Italy,IT,41.87194,12.56738,male
+1938,Office international Nansen pour les R�fugi�s (Nansen International Office for Refugees),,peace,,,,,organisation
+1938,Pearl,Buck,literature,USA,US,37.09024,-95.712891,female
+1939,Adolf Friedrich Johann,Butenandt,chemistry,Germany,DE,51.165691,10.451526,male
+1939,Ernest Orlando,Lawrence,physics,USA,US,37.09024,-95.712891,male
+1939,Frans Eemil,Sillanp��,literature,Russian Empire (now Finland),FI,61.92411,25.748151,male
+1939,Gerhard,Domagk,medicine,Germany (now Poland),PL,51.919438,19.145136,male
+1939,Leopold,Ruzicka,chemistry,Austria-Hungary (now Croatia),HR,45.1,41319,male
+1943,Edward Adelbert,Doisy,medicine,USA,US,37.09024,-95.712891,male
+1943,George,de Hevesy,chemistry,Austria-Hungary (now Hungary),HU,47.162494,19.503304,male
+1943,Henrik Carl Peter,Dam,medicine,Denmark,DK,56.26392,9.501785,male
+1943,Otto,Stern,physics,Germany (now Poland),PL,51.919438,19.145136,male
+1944,Comit� international de la Croix Rouge (International Committee of the Red Cross),,peace,,,,,organisation
+1944,Herbert Spencer,Gasser,medicine,USA,US,37.09024,-95.712891,male
+1944,Isidor Isaac,Rabi,physics,Austria-Hungary (now Poland),PL,51.919438,19.145136,male
+1944,Johannes Vilhelm,Jensen,literature,Denmark,DK,56.26392,9.501785,male
+1944,Joseph,Erlanger,medicine,USA,US,37.09024,-95.712891,male
+1944,Otto,Hahn,chemistry,Germany,DE,51.165691,10.451526,male
+1945,Artturi Ilmari,Virtanen,chemistry,Russian Empire (now Finland),FI,61.92411,25.748151,male
+1945,Cordell,Hull,peace,USA,US,37.09024,-95.712891,male
+1945,Ernst Boris,Chain,medicine,Germany,DE,51.165691,10.451526,male
+1945,Gabriela,Mistral,literature,Chile,CL,-35.675147,-71.542969,female
+1945,Sir Alexander,Fleming,medicine,Scotland,GB,55.378051,-3.435973,male
+1945,Sir Howard Walter,Florey,medicine,Australia,AU,-25.274398,133.775136,male
+1945,Wolfgang,Pauli,physics,Austria,AT,47.516231,14.550072,male
+1946,Emily Greene,Balch,peace,USA,US,37.09024,-95.712891,female
+1946,Hermann,Hesse,literature,Germany,DE,51.165691,10.451526,male
+1946,Hermann Joseph,Muller,medicine,USA,US,37.09024,-95.712891,male
+1946,James Batcheller,Sumner,chemistry,USA,US,37.09024,-95.712891,male
+1946,John Howard,Northrop,chemistry,USA,US,37.09024,-95.712891,male
+1946,John Raleigh,Mott,peace,USA,US,37.09024,-95.712891,male
+1946,Percy Williams,Bridgman,physics,USA,US,37.09024,-95.712891,male
+1946,Wendell Meredith,Stanley,chemistry,USA,US,37.09024,-95.712891,male
+1947,American Friends Service Committee (The Quakers),,peace,,,,,organisation
+1947,Andr� Paul Guillaume,Gide,literature,France,FR,46.227638,2.213749,male
+1947,Bernardo Alberto,Houssay,medicine,Argentina,AR,-38.416097,-63.616672,male
+1947,Carl Ferdinand,Cori,medicine,Austria-Hungary (now Czech Republic),CZ,49.817492,15.472962,male
+1947,Friends Service Council (The Quakers),,peace,,,,,organisation
+1947,Gerty Theresa,"Cori, nee Radnitz",medicine,Austria-Hungary (now Czech Republic),CZ,49.817492,15.472962,female
+1947,Sir Edward Victor,Appleton,physics,United Kingdom,GB,55.378051,-3.435973,male
+1947,Sir Robert,Robinson,chemistry,United Kingdom,GB,55.378051,-3.435973,male
+1948,Arne Wilhelm Kaurin,Tiselius,chemistry,Sweden,SE,60.128161,18.643501,male
+1948,Patrick Maynard Stuart,Blackett,physics,United Kingdom,GB,55.378051,-3.435973,male
+1948,Paul Hermann,M�ller,medicine,Switzerland,CH,46.818188,8.227512,male
+1948,Thomas Stearns,Eliot,literature,USA,US,37.09024,-95.712891,male
+1949,Antonio Caetano de Abreu Freire Egas,Moniz,medicine,Portugal,PT,39.399872,-8.224454,male
+1949,Hideki,Yukawa,physics,Japan,JP,36.204824,138.252924,male
+1949,Lord (John),Boyd Orr of Brechin,peace,Scotland,GB,55.378051,-3.435973,male
+1949,Walter Rudolf,Hess,medicine,Switzerland,CH,46.818188,8.227512,male
+1949,William,Faulkner,literature,USA,US,37.09024,-95.712891,male
+1949,William Francis,Giauque,chemistry,Canada,CA,56.130366,-106.346771,male
+1950,Cecil Frank,Powell,physics,United Kingdom,GB,55.378051,-3.435973,male
+1950,Earl (Bertrand Arthur William),Russell,literature,United Kingdom,GB,55.378051,-3.435973,male
+1950,Edward Calvin,Kendall,medicine,USA,US,37.09024,-95.712891,male
+1950,Kurt,Alder,chemistry,Prussia (now Poland),PL,51.919438,19.145136,male
+1950,Otto Paul Hermann,Diels,chemistry,Germany,DE,51.165691,10.451526,male
+1950,Philip Showalter,Hench,medicine,USA,US,37.09024,-95.712891,male
+1950,Ralph,Bunche,peace,USA,US,37.09024,-95.712891,male
+1950,Tadeus,Reichstein,medicine,Poland,PL,51.919438,19.145136,male
+1951,Edwin Mattison,McMillan,chemistry,USA,US,37.09024,-95.712891,male
+1951,Ernest Thomas Sinton,Walton,physics,Ireland,IE,53.41291,-8.24389,male
+1951,Glenn Theodore,Seaborg,chemistry,USA,US,37.09024,-95.712891,male
+1951,L�on,Jouhaux,peace,France,FR,46.227638,2.213749,male
+1951,Max,Theiler,medicine,South Africa,ZA,-30.559482,22.937506,male
+1951,P�r Fabian,Lagerkvist,literature,Sweden,SE,60.128161,18.643501,male
+1951,Sir John Douglas,Cockcroft,physics,United Kingdom,GB,55.378051,-3.435973,male
+1952,Albert,Schweitzer,peace,Germany (now France),FR,46.227638,2.213749,male
+1952,Archer John Porter,Martin,chemistry,United Kingdom,GB,55.378051,-3.435973,male
+1952,Edward Mills,Purcell,physics,USA,US,37.09024,-95.712891,male
+1952,Felix,Bloch,physics,Switzerland,CH,46.818188,8.227512,male
+1952,Fran�ois,Mauriac,literature,France,FR,46.227638,2.213749,male
+1952,Richard Laurence Millington,Synge,chemistry,United Kingdom,GB,55.378051,-3.435973,male
+1952,Selman Abraham,Waksman,medicine,Russian Empire (now Ukraine),UA,48.379433,31.16558,male
+1953,Fritz Albert,Lipmann,medicine,Germany (now Russia),RU,61.52401,105.318756,male
+1953,Hermann,Staudinger,chemistry,Germany,DE,51.165691,10.451526,male
+1953,Frits,Zernike,physics,the Netherlands,NL,52.132633,5.291266,male
+1953,George Catlett,Marshall,peace,USA,US,37.09024,-95.712891,male
+1953,Hans Adolf,Krebs,medicine,Germany,DE,51.165691,10.451526,male
+1953,Sir Winston Leonard Spencer,Churchill,literature,United Kingdom,GB,55.378051,-3.435973,male
+1954,Walther,Bothe,physics,Germany,DE,51.165691,10.451526,male
+1954,Ernest Miller,Hemingway,literature,USA,US,37.09024,-95.712891,male
+1954,Frederick Chapman,Robbins,medicine,USA,US,37.09024,-95.712891,male
+1954,John Franklin,Enders,medicine,USA,US,37.09024,-95.712891,male
+1954,John Franklin,Enders,medicine,USA,US,37.09024,-95.712891,male
+1954,Linus Carl,Pauling,chemistry,USA,US,37.09024,-95.712891,male
+1954,Max,Born,physics,Germany (now Poland),PL,51.919438,19.145136,male
+1954,Office of the United Nations High Commissioner for Refugees (UNHCR),,peace,,,,,organisation
+1954,Thomas Huckle,Weller,medicine,USA,US,37.09024,-95.712891,male
+1955,Axel Hugo Theodor,Theorell,medicine,Sweden,SE,60.128161,18.643501,male
+1955,Halld�r Kiljan,Laxness,literature,Iceland,IS,64.963051,-19.020835,male
+1955,Polykarp,Kusch,physics,Germany,DE,51.165691,10.451526,male
+1955,Vincent,du Vigneaud,chemistry,USA,US,37.09024,-95.712891,male
+1955,Willis Eugene,Lamb,physics,USA,US,37.09024,-95.712891,male
+1956,Andr� Fr�d�ric ,Cournand,medicine,France,FR,46.227638,2.213749,male
+1956,Werner,Forssmann,medicine,Germany,DE,51.165691,10.451526,male
+1956,Dickinson W.,Richards,medicine,USA,US,37.09024,-95.712891,male
+1956,John,Bardeen,physics,USA,US,37.09024,-95.712891,male
+1956,Juan Ram�n ,Jim�nez,literature,Spain,ES,40.463667,-3.74922,male
+1956,Nikolay Nikolaevich,Semenov,chemistry,Russia,RU,61.52401,105.318756,male
+1956,Sir Cyril Norman,Hinshelwood,chemistry,United Kingdom,GB,55.378051,-3.435973,male
+1956,Walter Houser,Brattain,physics,China,CN,35.86166,104.195397,male
+1956,William Bradford,Shockley,physics,United Kingdom,GB,55.378051,-3.435973,male
+1957,Albert,Camus,literature,French Algeria (now Algeria),DZ,28.033886,1.659626,male
+1957,Chen Ning,Yang,physics,China,CN,35.86166,104.195397,male
+1957,Daniel,Bovet,medicine,Switzerland,CH,46.818188,8.227512,male
+1957,Lester Bowles,Pearson,peace,Canada,CA,56.130366,-106.346771,male
+1957,Lord (Alexander R.),Todd,chemistry,Scotland,GB,55.378051,-3.435973,male
+1957,Tsung-Dao (T.D.),Lee,physics,China,CN,35.86166,104.195397,male
+1958,Boris Leonidovich,Pasternak,literature,Russia,RU,61.52401,105.318756,male
+1958,Igor Yevgenyevich,Tamm,physics,Russia,RU,61.52401,105.318756,male
+1958,Edward Lawrie,Tatum,medicine,USA,US,37.09024,-95.712891,male
+1958,Il�ja Mikhailovich ,Frank,physics,Russia,RU,61.52401,105.318756,male
+1958,Frederick,Sanger,chemistry,United Kingdom,GB,55.378051,-3.435973,male
+1958,George Wells,Beadle,medicine,USA,US,37.09024,-95.712891,male
+1958,Georges,Pire,peace,Belgium,BE,50.503887,4.469936,male
+1958,Joshua,Lederberg,medicine,USA,US,37.09024,-95.712891,male
+1958,Pavel Alekseyevich,Cherenkov,physics,Russia,RU,61.52401,105.318756,male
+1959,Arthur,Kornberg,medicine,USA,US,37.09024,-95.712891,male
+1959,Emilio Gino,Segr�,physics,Italy,IT,41.87194,12.56738,male
+1959,Jaroslav,Heyrovsky,chemistry,Austria-Hungary (now Czech Republic),CZ,49.817492,15.472962,male
+1959,Owen,Chamberlain,physics,USA,US,37.09024,-95.712891,male
+1959,Philip J.,Noel-Baker,peace,United Kingdom,GB,55.378051,-3.435973,male
+1959,Salvatore,Quasimodo,literature,Italy,IT,41.87194,12.56738,male
+1959,Severo,Ochoa,medicine,Spain,ES,40.463667,-3.74922,male
+1960,Albert John,Lutuli,peace,Southern Rhodesia (now Zimbabwe),ZW,-19.015438,29.154857,male
+1960,Donald Arthur,Glaser,physics,USA,US,37.09024,-95.712891,male
+1960,Peter Brian,Medawar,medicine,Brazil,BR,-14.235004,-51.92528,male
+1960,Saint-John,Perse,literature,Guadeloupe Island,GP,16.995971,-62.067641,male
+1960,Sir Frank Macfarlane,Burnet,medicine,Australia,AU,-25.274398,133.775136,male
+1960,Willard Frank,Libby,chemistry,USA,US,37.09024,-95.712891,male
+1961,Dag Hjalmar Agne Carl,Hammarskj�ld,peace,Sweden,SE,60.128161,18.643501,male
+1961,Rudolf Ludwig,M�ssbauer,physics,Germany,DE,51.165691,10.451526,male
+1961,Georg,von B�k�sy,medicine,Hungary,HU,47.162494,19.503304,male
+1961,Ivo,Andric,literature,Bosnia (now Bosnia and Herzegovina),BA,43.915886,17.679076,male
+1961,Melvin,Calvin,chemistry,USA,US,37.09024,-95.712891,male
+1961,Robert,Hofstadter,physics,USA,US,37.09024,-95.712891,male
+1962,Francis Harry Compton,Crick,medicine,United Kingdom,GB,55.378051,-3.435973,male
+1962,James Dewey,Watson,medicine,USA,US,37.09024,-95.712891,male
+1962,John,Steinbeck,literature,USA,US,37.09024,-95.712891,male
+1962,John Cowdery,Kendrew,chemistry,United Kingdom,GB,55.378051,-3.435973,male
+1962,Lev Davidovich,Landau,physics,Russian Empire (now Azerbaijan),AZ,40.143105,47.576927,male
+1962,Linus Carl,Pauling,peace,USA,US,37.09024,-95.712891,male
+1962,Maurice Hugh Frederick,Wilkins,medicine,New Zealand,NZ,-40.900557,174.885971,male
+1962,Max Ferdinand,Perutz,chemistry,Austria,AT,47.516231,14.550072,male
+1963,Alan Lloyd,Hodgkin,medicine,United Kingdom,GB,55.378051,-3.435973,male
+1963,Andrew Fielding,Huxley,medicine,United Kingdom,GB,55.378051,-3.435973,male
+1963,Comit� international de la Croix Rouge (International Committee of the Red Cross),,peace,,,,,organisation
+1963,Eugene Paul,Wigner,physics,Austria-Hungary (now Hungary),HU,47.162494,19.503304,male
+1963,Giorgos,Seferis,literature,Ottoman Empire (now Turkey),TR,38.963745,35.243322,male
+1963,Giulio,Natta,chemistry,Italy,IT,41.87194,12.56738,male
+1963,J. Hans D.,Jensen,physics,Germany,DE,51.165691,10.451526,male
+1963,Karl,Ziegler,chemistry,Germany,DE,51.165691,10.451526,male
+1963,Ligue des Soci�t�s de la Croix-Rouge (League of Red Cross Societies),,peace,,,,,organisation
+1963,Maria,Goeppert Mayer,physics,Germany (now Poland),PL,51.919438,19.145136,female
+1963,Sir John Carew,Eccles,medicine,Australia,AU,-25.274398,133.775136,male
+1964,Aleksandr Mikhailovich,Prokhorov,physics,Australia,AU,-25.274398,133.775136,male
+1964,Charles Hard,Townes,physics,USA,US,37.09024,-95.712891,male
+1964,Dorothy Crowfoot,Hodgkin,chemistry,Egypt,EG,26.820553,30.802498,female
+1964,Feodor,Lynen,medicine,Germany,DE,51.165691,10.451526,male
+1964,Jean-Paul,Sartre,literature,France,FR,46.227638,2.213749,male
+1964,Konrad,Bloch,medicine,Germany (now Poland),PL,51.919438,19.145136,male
+1964,Martin Luther,King Jr.,peace,USA,US,37.09024,-95.712891,male
+1964,Nicolay Gennadiyevich,Basov,physics,USSR (now Russia),RU,61.52401,105.318756,male
+1965,Andr�,Lwoff,medicine,France,FR,46.227638,2.213749,male
+1965,Fran�ois,Jacob,medicine,France,FR,46.227638,2.213749,male
+1965,Jacques,Monod,medicine,France,FR,46.227638,2.213749,male
+1965,Julian,Schwinger,physics,USA,US,37.09024,-95.712891,male
+1965,Mikhail Aleksandrovich,Sholokhov,literature,Russia,RU,61.52401,105.318756,male
+1965,Richard P.,Feynman,physics,USA,US,37.09024,-95.712891,male
+1965,Robert Burns,Woodward,chemistry,USA,US,37.09024,-95.712891,male
+1965,Sin-Itiro,Tomonaga,physics,Japan,JP,36.204824,138.252924,male
+1965,United Nations Children's Fund (UNICEF),,peace,,,,,organisation
+1966,Alfred,Kastler,physics,Germany (now France),FR,46.227638,2.213749,male
+1966,Charles Brenton,Huggins,medicine,Canada,CA,56.130366,-106.346771,male
+1966,Nelly,Sachs,literature,Germany,DE,51.165691,10.451526,female
+1966,Peyton,Rous,medicine,USA,US,37.09024,-95.712891,male
+1966,Robert S.,Mulliken,chemistry,USA,US,37.09024,-95.712891,male
+1966,Shmuel Yosef,Agnon,literature,Austria-Hungary (now Ukraine),UA,48.379433,31.16558,male
+1967,George,Porter,chemistry,United Kingdom,GB,55.378051,-3.435973,male
+1967,George,Wald,medicine,USA,US,37.09024,-95.712891,male
+1967,Haldan Keffer,Hartline,medicine,USA,US,37.09024,-95.712891,male
+1967,Hans Albrecht,Bethe,physics,Germany (now France),FR,46.227638,2.213749,male
+1967,Manfred,Eigen,chemistry,Germany,DE,51.165691,10.451526,male
+1967,Miguel Angel,Asturias,literature,Guatemala,GT,15.783471,-90.230759,male
+1967,Ragnar,Granit,medicine,Russian Empire (now Finland),FI,61.92411,25.748151,male
+1967,Ronald George Wreyford,Norrish,chemistry,United Kingdom,GB,55.378051,-3.435973,male
+1968,Har Gobind,Khorana,medicine,India,IN,20.593684,78.96288,male
+1968,Lars,Onsager,chemistry,Norway,NO,60.472024,8.468946,male
+1968,Luis Walter,Alvarez,physics,USA,US,37.09024,-95.712891,male
+1968,Marshall W.,Nirenberg,medicine,USA,US,37.09024,-95.712891,male
+1968,Ren�,Cassin,peace,France,FR,46.227638,2.213749,male
+1968,Robert W.,Holley,medicine,USA,US,37.09024,-95.712891,male
+1968,Yasunari,Kawabata,literature,Japan,JP,36.204824,138.252924,male
+1969,Alfred D.,Hershey,medicine,USA,US,37.09024,-95.712891,male
+1969,Derek H. R.,Barton,chemistry,United Kingdom,GB,55.378051,-3.435973,male
+1969,International Labour Organization (I.L.O.),,peace,,,,,organisation
+1969,Jan,Tinbergen,economics,the Netherlands,NL,52.132633,5.291266,male
+1969,Max,Delbr�ck,medicine,Germany,DE,51.165691,10.451526,male
+1969,Murray,Gell-Mann,physics,USA,US,37.09024,-95.712891,male
+1969,Odd,Hassel,chemistry,Norway,NO,60.472024,8.468946,male
+1969,Ragnar,Frisch,economics,Norway,NO,60.472024,8.468946,male
+1969,Salvador E.,Luria,medicine,Italy,IT,41.87194,12.56738,male
+1969,Samuel,Beckett,literature,Ireland,IE,53.41291,-8.24389,male
+1970,Aleksandr Isayevich,Solzhenitsyn,literature,Russia,RU,61.52401,105.318756,male
+1970,Hannes Olof G�sta ,Alfv�n,physics,Sweden,SE,60.128161,18.643501,male
+1970,Julius,Axelrod,medicine,USA,US,37.09024,-95.712891,male
+1970,Louis Eug�ne F�lix ,N�el,physics,France,FR,46.227638,2.213749,male
+1970,Luis F.,Leloir,chemistry,France,FR,46.227638,2.213749,male
+1970,Norman E.,Borlaug,peace,USA,US,37.09024,-95.712891,male
+1970,Paul A.,Samuelson,economics,USA,US,37.09024,-95.712891,male
+1970,Sir Bernard,Katz,medicine,Germany,DE,51.165691,10.451526,male
+1970,Ulf,von Euler,medicine,Sweden,SE,60.128161,18.643501,male
+1971,Dennis,Gabor,physics,Hungary,HU,47.162494,19.503304,male
+1971,Earl W.,"Sutherland, Jr.",medicine,USA,US,37.09024,-95.712891,male
+1971,Gerhard,Herzberg,chemistry,Germany,DE,51.165691,10.451526,male
+1971,Pablo,Neruda,literature,Chile,CL,-35.675147,-71.542969,male
+1971,Simon,Kuznets,economics,Russian Empire (now Belarus),BY,53.709807,27.953389,male
+1971,Willy,Brandt,peace,Germany,DE,51.165691,10.451526,male
+1972,Christian B.,Anfinsen,chemistry,USA,US,37.09024,-95.712891,male
+1972,Gerald M.,Edelman,medicine,USA,US,37.09024,-95.712891,male
+1972,Heinrich,B�ll,literature,Germany,DE,51.165691,10.451526,male
+1972,John,Bardeen,physics,USA,US,37.09024,-95.712891,male
+1972,John R.,Hicks,economics,United Kingdom,GB,55.378051,-3.435973,male
+1972,John Robert,Schrieffer,physics,USA,US,37.09024,-95.712891,male
+1972,Kenneth J.,Arrow,economics,USA,US,37.09024,-95.712891,male
+1972,Leon Neil,Cooper,physics,USA,US,37.09024,-95.712891,male
+1972,Rodney R.,Porter,medicine,United Kingdom,GB,55.378051,-3.435973,male
+1972,Stanford,Moore,chemistry,USA,US,37.09024,-95.712891,male
+1972,William H.,Stein,chemistry,USA,US,37.09024,-95.712891,male
+1973,Brian David,Josephson,physics,United Kingdom,GB,55.378051,-3.435973,male
+1973,Ernst Otto,Fischer,chemistry,Germany,DE,51.165691,10.451526,male
+1973,Geoffrey,Wilkinson,chemistry,United Kingdom,GB,55.378051,-3.435973,male
+1973,Henry A.,Kissinger,peace,Germany,DE,51.165691,10.451526,male
+1973,Ivar,Giaever,physics,Norway,NO,60.472024,8.468946,male
+1973,Karl,von Frisch,medicine,Austria,AT,47.516231,14.550072,male
+1973,Konrad,Lorenz,medicine,Austria,AT,47.516231,14.550072,male
+1973,Le Duc Tho,,peace,Vietnam,VN,14.058324,108.277199,male
+1973,Leo,Esaki,physics,Japan,JP,36.204824,138.252924,male
+1973,Nikolaas,Tinbergen,medicine,the Netherlands,NL,52.132633,5.291266,male
+1973,Patrick,White,literature,United Kingdom,GB,55.378051,-3.435973,male
+1973,Wassily,Leontief,economics,Russia,RU,61.52401,105.318756,male
+1974,Albert,Claude,medicine,Belgium,BE,50.503887,4.469936,male
+1974,Antony,Hewish,physics,United Kingdom,GB,55.378051,-3.435973,male
+1974,Eisaku,Sato,peace,Japan,JP,36.204824,138.252924,male
+1974,Eyvind,Johnson,literature,Sweden,SE,60.128161,18.643501,male
+1974,Christian,de Duve,medicine,United Kingdom,GB,55.378051,-3.435973,male
+1974,Friedrich August,von Hayek,economics,Austria,AT,47.516231,14.550072,male
+1974,George E.,Palade,medicine,Romania,RO,45.943161,24.96676,male
+1974,Gunnar,Myrdal,economics,Sweden,SE,60.128161,18.643501,male
+1974,Harry,Martinson,literature,Sweden,SE,60.128161,18.643501,male
+1974,Paul J.,Flory,chemistry,USA,US,37.09024,-95.712891,male
+1974,Se�n,MacBride,peace,France,FR,46.227638,2.213749,male
+1974,Sir Martin,Ryle,physics,United Kingdom,GB,55.378051,-3.435973,male
+1975,Aage Niels,Bohr,physics,Denmark,DK,56.26392,9.501785,male
+1975,Andrei Dmitrievich,Sakharov,peace,Russia,RU,61.52401,105.318756,male
+1975,Ben Roy,Mottelson,physics,USA,US,37.09024,-95.712891,male
+1975,David,Baltimore,medicine,USA,US,37.09024,-95.712891,male
+1975,Eugenio,Montale,literature,Italy,IT,41.87194,12.56738,male
+1975,Howard Martin,Temin,medicine,USA,US,37.09024,-95.712891,male
+1975,John Warcup,Cornforth,chemistry,Australia,AU,-25.274398,133.775136,male
+1975,Leo James,Rainwater,physics,USA,US,37.09024,-95.712891,male
+1975,Leonid Vitaliyevich,Kantorovich,economics,Russian Empire (now Russia),RU,61.52401,105.318756,male
+1975,Renato,Dulbecco,medicine,Italy,IT,41.87194,12.56738,male
+1975,Tjalling C.,Koopmans,economics,the Netherlands,NL,52.132633,5.291266,male
+1975,Vladimir,Prelog,chemistry,Austria-Hungary (now Bosnia and Herzegovina),BA,43.915886,17.679076,male
+1976,Baruch S.,Blumberg,medicine,USA,US,37.09024,-95.712891,male
+1976,Betty,Williams,peace,Northern Ireland,GB,55.378051,-3.435973,female
+1976,Burton,Richter,physics,USA,US,37.09024,-95.712891,male
+1976,D. Carleton,Gajdusek,medicine,USA,US,37.09024,-95.712891,male
+1976,Mairead,Corrigan,peace,Northern Ireland,GB,55.378051,-3.435973,female
+1976,Milton,Friedman,economics,USA,US,37.09024,-95.712891,male
+1976,Samuel Chao Chung,Ting,physics,USA,US,37.09024,-95.712891,male
+1976,Saul,Bellow,literature,Canada,CA,56.130366,-106.346771,male
+1976,William N.,Lipscomb,chemistry,USA,US,37.09024,-95.712891,male
+1977,Amnesty International,,peace,,,,,organisation
+1977,Andrew V.,Schally,medicine,Poland (now Lithuania),LT,55.169438,23.881275,male
+1977,Bertil,Ohlin,economics,Sweden,SE,60.128161,18.643501,male
+1977,Ilya,Prigogine,chemistry,Russia,RU,61.52401,105.318756,male
+1977,James E.,Meade,economics,United Kingdom,GB,55.378051,-3.435973,male
+1977,John Hasbrouck,van Vleck,physics,USA,US,37.09024,-95.712891,male
+1977,Philip Warren,Anderson,physics,USA,US,37.09024,-95.712891,male
+1977,Roger,Guillemin,medicine,France,FR,46.227638,2.213749,male
+1977,Rosalyn,Yalow,medicine,USA,US,37.09024,-95.712891,female
+1977,Sir Nevill Francis,Mott,physics,United Kingdom,GB,55.378051,-3.435973,male
+1977,Vicente,Aleixandre,literature,Spain,ES,40.463667,-3.74922,male
+1978,Arno Allan,Penzias,physics,Germany,DE,51.165691,10.451526,male
+1978,Daniel,Nathans,medicine,USA,US,37.09024,-95.712891,male
+1978,Hamilton O.,Smith,medicine,USA,US,37.09024,-95.712891,male
+1978,Herbert A.,Simon,economics,USA,US,37.09024,-95.712891,male
+1978,Isaac Bashevis,Singer,literature,Russian Empire (now Poland),PL,51.919438,19.145136,male
+1978,Menachem,Begin,peace,Russian Empire (now Belarus),BY,53.709807,27.953389,male
+1978,Mohamed Anwar,al-Sadat,peace,Egypt,EG,26.820553,30.802498,male
+1978,Peter D.,Mitchell,chemistry,United Kingdom,GB,55.378051,-3.435973,male
+1978,Pyotr Leonidovich,Kapitsa,physics,Russian Empire (now Russia),RU,61.52401,105.318756,male
+1978,Robert Woodrow,Wilson,physics,USA,US,37.09024,-95.712891,male
+1978,Werner,Arber,medicine,Switzerland,CH,46.818188,8.227512,male
+1979,Abdus,Salam,physics,India (now Pakistan),PK,30.375321,69.345116,male
+1979,Allan M.,Cormack,medicine,South Africa,ZA,-30.559482,22.937506,male
+1979,Georg,Wittig,chemistry,Germany,DE,51.165691,10.451526,male
+1979,Godfrey N.,Hounsfield,medicine,United Kingdom,GB,55.378051,-3.435973,male
+1979,Herbert C.,Brown,chemistry,United Kingdom,GB,55.378051,-3.435973,male
+1979,Mother Teresa,,peace,Ottoman Empire (now Republic of Macedonia),MK,41.608635,21.745275,female
+1979,Odysseus,Elytis,literature,Crete (now Greece),GR,39.074208,21.824312,male
+1979,Sheldon Lee,Glashow,physics,USA,US,37.09024,-95.712891,male
+1979,Sir Arthur,Lewis,economics,British West Indies (now Saint Lucia),LC,13.909444,-60.978893,male
+1979,Steven,Weinberg,physics,USA,US,37.09024,-95.712891,male
+1979,Theodore W.,Schultz,economics,USA,US,37.09024,-95.712891,male
+1980,Adolfo,P�rez  Esquivel,peace,Argentina,AR,-38.416097,-63.616672,male
+1980,Baruj,Benacerraf,medicine,Venezuela,VE,6.42375,-66.58973,male
+1980,Czeslaw,Milosz,literature,Russian Empire (now Lithuania),LT,55.169438,23.881275,male
+1980,Frederick,Sanger,chemistry,United Kingdom,GB,55.378051,-3.435973,male
+1980,George D.,Snell,medicine,USA,US,37.09024,-95.712891,male
+1980,James Watson,Cronin,physics,USA,US,37.09024,-95.712891,male
+1980,Jean,Dausset,medicine,France,FR,46.227638,2.213749,male
+1980,Lawrence R.,Klein,economics,USA,US,37.09024,-95.712891,male
+1980,Paul,Berg,chemistry,USA,US,37.09024,-95.712891,male
+1980,Val Logsdon,Fitch,physics,USA,US,37.09024,-95.712891,male
+1980,Walter,Gilbert,chemistry,USA,US,37.09024,-95.712891,male
+1981,Arthur Leonard,Schawlow,physics,USA,US,37.09024,-95.712891,male
+1981,David H.,Hubel,medicine,Canada,CA,56.130366,-106.346771,male
+1981,Elias,Canetti,literature,Bulgaria,BG,42.733883,25.48583,male
+1981,James,Tobin,economics,USA,US,37.09024,-95.712891,male
+1981,Kai M.,Siegbahn,physics,Sweden,SE,60.128161,18.643501,male
+1981,Kenichi,Fukui,chemistry,Japan,JP,36.204824,138.252924,male
+1981,Nicolaas,Bloembergen,physics,the Netherlands,NL,52.132633,5.291266,male
+1981,Office of the United Nations High Commissioner for Refugees (UNHCR),,peace,,,,,organisation
+1981,Roald,Hoffmann,chemistry,Poland (now Ukraine),UA,48.379433,31.16558,male
+1981,Roger W.,Sperry,medicine,USA,US,37.09024,-95.712891,male
+1981,Torsten N.,Wiesel,medicine,Sweden,SE,60.128161,18.643501,male
+1982,Aaron,Klug,chemistry,Lithuania,LT,55.169438,23.881275,male
+1982,Alfonso,Garc�a  Robles,peace,Mexico,MX,23.634501,-102.552784,male
+1982,Alva,Myrdal,peace,Sweden,SE,60.128161,18.643501,female
+1982,Bengt I.,Samuelsson,medicine,Sweden,SE,60.128161,18.643501,male
+1982,Gabriel,Garc�a M�rquez,literature,Colombia,CO,4.570868,-74.297333,male
+1982,George J.,Stigler,economics,USA,US,37.09024,-95.712891,male
+1982,John R.,Vane,medicine,United Kingdom,GB,55.378051,-3.435973,male
+1982,Kenneth G.,Wilson,physics,USA,US,37.09024,-95.712891,male
+1982,Sune K.,Bergstr�m,medicine,Sweden,SE,60.128161,18.643501,male
+1983,Barbara,McClintock,medicine,USA,US,37.09024,-95.712891,female
+1983,Gerard,Debreu,economics,France,FR,46.227638,2.213749,male
+1983,Henry,Taube,chemistry,Canada,CA,56.130366,-106.346771,male
+1983,Lech,Walesa,peace,Poland,PL,51.919438,19.145136,male
+1983,Subramanyan,Chandrasekhar,physics,India (now Pakistan),PK,30.375321,69.345116,male
+1983,William,Golding,literature,United Kingdom,GB,55.378051,-3.435973,male
+1983,William Alfred,Fowler,physics,USA,US,37.09024,-95.712891,male
+1984,Carlo,Rubbia,physics,Italy,IT,41.87194,12.56738,male
+1984,C�sar,Milstein,medicine,Argentina,AR,-38.416097,-63.616672,male
+1984,Desmond Mpilo,Tutu,peace,South Africa,ZA,-30.559482,22.937506,male
+1984,Georges J.F.,K�hler,medicine,Germany,DE,51.165691,10.451526,male
+1984,Jaroslav,Seifert,literature,Austria-Hungary (now Czech Republic),CZ,49.817492,15.472962,male
+1984,Niels K.,Jerne,medicine,United Kingdom,GB,55.378051,-3.435973,male
+1984,Richard,Stone,economics,United Kingdom,GB,55.378051,-3.435973,male
+1984,Robert Bruce,Merrifield,chemistry,USA,US,37.09024,-95.712891,male
+1984,Simon,van der Meer,physics,the Netherlands,NL,52.132633,5.291266,male
+1985,Claude,Simon,literature,Madagascar,MG,-18.766947,46.869107,male
+1985,Franco,Modigliani,economics,Italy,IT,41.87194,12.56738,male
+1985,Herbert A.,Hauptman,chemistry,USA,US,37.09024,-95.712891,male
+1985,International Physicians for the Prevention of Nuclear War,,peace,,,,,organisation
+1985,Jerome,Karle,chemistry,USA,US,37.09024,-95.712891,male
+1985,Joseph L.,Goldstein,medicine,USA,US,37.09024,-95.712891,male
+1985,Klaus,von Klitzing,physics,German-occupied Poland (now Poland),PL,51.919438,19.145136,male
+1985,Michael S.,Brown,medicine,USA,US,37.09024,-95.712891,male
+1986,Dudley R.,Herschbach,chemistry,USA,US,37.09024,-95.712891,male
+1986,Elie,Wiesel,peace,Romania,RO,45.943161,24.96676,male
+1986,Ernst,Ruska,physics,Germany,DE,51.165691,10.451526,male
+1986,Gerd,Binnig,physics,West Germany (now Germany),DE,51.165691,10.451526,male
+1986,Heinrich,Rohrer,physics,Switzerland,CH,46.818188,8.227512,male
+1986,James M.,Buchanan Jr.,economics,USA,US,37.09024,-95.712891,male
+1986,John C.,Polanyi,chemistry,Germany,DE,51.165691,10.451526,male
+1986,Rita,Levi-Montalcini,medicine,Italy,IT,41.87194,12.56738,female
+1986,Stanley,Cohen,medicine,USA,US,37.09024,-95.712891,male
+1986,Wole,Soyinka,literature,Nigeria,NG,9.081999,8.675277,male
+1986,Yuan T.,Lee,chemistry,Taiwan,TW,23.69781,120.960515,male
+1987,Charles J.,Pedersen,chemistry,Korea (now South Korea),KR,35.907757,127.766922,male
+1987,Donald J.,Cram,chemistry,USA,US,37.09024,-95.712891,male
+1987,Jean-Marie,Lehn,chemistry,France,FR,46.227638,2.213749,male
+1987,J. Georg,Bednorz,physics,West Germany (now Germany),DE,51.165691,10.451526,male
+1987,Joseph,Brodsky,literature,USSR (now Russia),RU,61.52401,105.318756,male
+1987,K. Alexander,M�ller,physics,Switzerland,CH,46.818188,8.227512,male
+1987,Oscar,Arias S�nchez,peace,Costa Rica,CR,9.748917,-83.753428,male
+1987,Robert M.,Solow,economics,USA,US,37.09024,-95.712891,male
+1987,Susumu,Tonegawa,medicine,Japan,JP,36.204824,138.252924,male
+1988,George H.,Hitchings,medicine,USA,US,37.09024,-95.712891,male
+1988,Gertrude B.,Elion,medicine,USA,US,37.09024,-95.712891,female
+1988,Johann,Deisenhofer,chemistry,Germany,DE,51.165691,10.451526,male
+1988,Hartmut,Michel,chemistry,West Germany (now Germany),DE,51.165691,10.451526,male
+1988,Jack,Steinberger,physics,Germany,DE,51.165691,10.451526,male
+1988,Leon M.,Lederman,physics,USA,US,37.09024,-95.712891,male
+1988,Maurice,Allais,economics,France,FR,46.227638,2.213749,male
+1988,Melvin,Schwartz,physics,USA,US,37.09024,-95.712891,male
+1988,Naguib,Mahfouz,literature,Egypt,EG,26.820553,30.802498,male
+1988,Robert,Huber,chemistry,Germany,DE,51.165691,10.451526,male
+1988,Sir James W.,Black,medicine,Scotland,GB,55.378051,-3.435973,male
+1988,United Nations Peacekeeping Forces,,peace,,,,,organisation
+1989,Camilo Jos�,Cela,literature,Spain,ES,40.463667,-3.74922,male
+1989,Hans G.,Dehmelt,physics,Prussia (now Germany),DE,51.165691,10.451526,male
+1989,Harold E.,Varmus,medicine,USA,US,37.09024,-95.712891,male
+1989,J. Michael,Bishop,medicine,USA,US,37.09024,-95.712891,male
+1989,Norman F.,Ramsey,physics,USA,US,37.09024,-95.712891,male
+1989,Sidney,Altman,chemistry,Canada,CA,56.130366,-106.346771,male
+1989,The 14th Dalai Lama (Tenzin Gyatso),,peace,Tibet (now People's Republic of China),CN,35.86166,104.195397,male
+1989,Thomas R.,Cech,chemistry,USA,US,37.09024,-95.712891,male
+1989,Trygve,Haavelmo,economics,Norway,NO,60.472024,8.468946,male
+1989,Wolfgang,Paul,physics,Germany,DE,51.165691,10.451526,male
+1990,E. Donnall,Thomas,medicine,USA,US,37.09024,-95.712891,male
+1990,Elias James,Corey,chemistry,USA,US,37.09024,-95.712891,male
+1990,Harry M.,Markowitz,economics,USA,US,37.09024,-95.712891,male
+1990,Henry W.,Kendall,physics,USA,US,37.09024,-95.712891,male
+1990,Jerome I.,Friedman,physics,USA,US,37.09024,-95.712891,male
+1990,Joseph E.,Murray,medicine,USA,US,37.09024,-95.712891,male
+1990,Merton H.,Miller,economics,USA,US,37.09024,-95.712891,male
+1990,Mikhail Sergeyevich,Gorbachev,peace,USSR (now Russia),RU,61.52401,105.318756,male
+1990,Octavio,Paz,literature,Mexico,MX,23.634501,-102.552784,male
+1990,Richard E.,Taylor,physics,Canada,CA,56.130366,-106.346771,male
+1990,William F.,Sharpe,economics,USA,US,37.09024,-95.712891,male
+1991,Aung San Suu Kyi,,peace,Burma (now Myanmar),MM,21.913965,95.956223,female
+1991,Bert,Sakmann,medicine,Germany,DE,51.165691,10.451526,male
+1991,Erwin,Neher,medicine,Germany,DE,51.165691,10.451526,male
+1991,Nadine,Gordimer,literature,South Africa,ZA,-30.559482,22.937506,female
+1991,Pierre-Gilles,de Gennes,physics,France,FR,46.227638,2.213749,male
+1991,Richard R.,Ernst,chemistry,Switzerland,CH,46.818188,8.227512,male
+1991,Ronald H.,Coase,economics,United Kingdom,GB,55.378051,-3.435973,male
+1992,Derek,Walcott,literature,Saint Lucia,LC,13.909444,-60.978893,male
+1992,Edmond H.,Fischer,medicine,China,CN,35.86166,104.195397,male
+1992,Edwin G.,Krebs,medicine,USA,US,37.09024,-95.712891,male
+1992,Gary S.,Becker,economics,USA,US,37.09024,-95.712891,male
+1992,Georges,Charpak,physics,Poland,PL,51.919438,19.145136,male
+1992,Rigoberta,Mench� Tum,peace,Guatemala,GT,15.783471,-90.230759,female
+1992,Rudolph A.,Marcus,chemistry,Canada,CA,56.130366,-106.346771,male
+1993,Douglass C.,North,economics,USA,US,37.09024,-95.712891,male
+1993,Frederik Willem,de Klerk,peace,South Africa,ZA,-30.559482,22.937506,male
+1993,Joseph H.,Taylor Jr.,physics,USA,US,37.09024,-95.712891,male
+1993,Kary B.,Mullis,chemistry,USA,US,37.09024,-95.712891,male
+1993,Michael,Smith,chemistry,United Kingdom,GB,55.378051,-3.435973,male
+1993,Nelson,Mandela,peace,South Africa,ZA,-30.559482,22.937506,male
+1993,Phillip A.,Sharp,medicine,USA,US,37.09024,-95.712891,male
+1993,Richard J.,Roberts,medicine,United Kingdom,GB,55.378051,-3.435973,male
+1993,Robert W.,Fogel,economics,USA,US,37.09024,-95.712891,male
+1993,Russell A.,Hulse,physics,USA,US,37.09024,-95.712891,male
+1993,Toni,Morrison,literature,USA,US,37.09024,-95.712891,female
+1994,Alfred G.,Gilman,medicine,USA,US,37.09024,-95.712891,male
+1994,Bertram N.,Brockhouse,physics,Canada,CA,56.130366,-106.346771,male
+1994,Clifford G.,Shull,physics,USA,US,37.09024,-95.712891,male
+1994,George A.,Olah,chemistry,Hungary,HU,47.162494,19.503304,male
+1994,John C.,Harsanyi,economics,Hungary,HU,47.162494,19.503304,male
+1994,John F.,Nash Jr.,economics,USA,US,37.09024,-95.712891,male
+1994,Kenzaburo,Oe,literature,Japan,JP,36.204824,138.252924,male
+1994,Martin,Rodbell,medicine,USA,US,37.09024,-95.712891,male
+1994,Reinhard,Selten,economics,Germany (now Poland),PL,51.919438,19.145136,male
+1994,Shimon,Peres,peace,Poland (now Belarus),BY,53.709807,27.953389,male
+1994,Yasser,Arafat,peace,Egypt,EG,26.820553,30.802498,male
+1994,Yitzhak,Rabin,peace,British Mandate of Palestine (now Israel),IL,31.046051,34.851612,male
+1995,Christiane,N�sslein-Volhard,medicine,Germany,DE,51.165691,10.451526,female
+1995,Edward B.,Lewis,medicine,USA,US,37.09024,-95.712891,male
+1995,Eric F.,Wieschaus,medicine,USA,US,37.09024,-95.712891,male
+1995,F. Sherwood,Rowland,chemistry,USA,US,37.09024,-95.712891,male
+1995,Frederick,Reines,physics,USA,US,37.09024,-95.712891,male
+1995,Joseph,Rotblat,peace,Russian Empire (now Poland),PL,51.919438,19.145136,male
+1995,Mario J.,Molina,chemistry,Mexico,MX,23.634501,-102.552784,male
+1995,Martin L.,Perl,physics,USA,US,37.09024,-95.712891,male
+1995,Paul J.,Crutzen,chemistry,the Netherlands,NL,52.132633,5.291266,male
+1995,Pugwash Conferences on Science and World Affairs,,peace,,,,,organisation
+1995,Robert E.,Lucas Jr.,economics,USA,US,37.09024,-95.712891,male
+1995,Seamus,Heaney,literature,Northern Ireland,GB,55.378051,-3.435973,male
+1996,Carlos Filipe Ximenes,Belo,peace,East Timor,TL,-8.874217,125.727539,male
+1996,David M.,Lee,physics,USA,US,37.09024,-95.712891,male
+1996,Douglas D.,Osheroff,physics,USA,US,37.09024,-95.712891,male
+1996,James A.,Mirrlees,economics,Scotland,GB,55.378051,-3.435973,male
+1996,Jos�,Ramos-Horta,peace,East Timor,TL,-8.874217,125.727539,male
+1996,Peter C.,Doherty,medicine,Australia,AU,-25.274398,133.775136,male
+1996,Richard E.,Smalley,chemistry,USA,US,37.09024,-95.712891,male
+1996,Robert C.,Richardson,physics,USA,US,37.09024,-95.712891,male
+1996,Robert F.,Curl Jr.,chemistry,USA,US,37.09024,-95.712891,male
+1996,Rolf M.,Zinkernagel,medicine,Switzerland,CH,46.818188,8.227512,male
+1996,Sir Harold W.,Kroto,chemistry,United Kingdom,GB,55.378051,-3.435973,male
+1996,William,Vickrey,economics,Canada,CA,56.130366,-106.346771,male
+1996,Wislawa,Szymborska,literature,Poland,PL,51.919438,19.145136,female
+1997,Dario,Fo,literature,Italy,IT,41.87194,12.56738,male
+1997,Claude,Cohen-Tannoudji,physics,French Algeria (now Algeria),DZ,28.033886,1.659626,male
+1997,International Campaign to Ban Landmines (ICBL),,peace,,,,,organisation
+1997,Jens C.,Skou,chemistry,Denmark,DK,56.26392,9.501785,male
+1997,Jody,Williams,peace,USA,US,37.09024,-95.712891,female
+1997,John E.,Walker,chemistry,United Kingdom,GB,55.378051,-3.435973,male
+1997,Myron S.,Scholes,economics,Canada,CA,56.130366,-106.346771,male
+1997,Paul D.,Boyer,chemistry,USA,US,37.09024,-95.712891,male
+1997,Robert C.,Merton,economics,USA,US,37.09024,-95.712891,male
+1997,Stanley B.,Prusiner,medicine,USA,US,37.09024,-95.712891,male
+1997,Steven,Chu,physics,USA,US,37.09024,-95.712891,male
+1997,William D.,Phillips,physics,USA,US,37.09024,-95.712891,male
+1998,Amartya,Sen,economics,India,IN,20.593684,78.96288,male
+1998,Daniel C.,Tsui,physics,China,CN,35.86166,104.195397,male
+1998,David,Trimble,peace,Northern Ireland,GB,55.378051,-3.435973,male
+1998,Ferid,Murad,medicine,USA,US,37.09024,-95.712891,male
+1998,Horst L.,St�rmer,physics,West Germany (now Germany),DE,51.165691,10.451526,male
+1998,John,Hume,peace,Northern Ireland,GB,55.378051,-3.435973,male
+1998,John A.,Pople,chemistry,United Kingdom,GB,55.378051,-3.435973,male
+1998,Jos�,Saramago,literature,Portugal,PT,39.399872,-8.224454,male
+1998,Louis J.,Ignarro,medicine,USA,US,37.09024,-95.712891,male
+1998,Robert B.,Laughlin,physics,USA,US,37.09024,-95.712891,male
+1998,Robert F.,Furchgott,medicine,USA,US,37.09024,-95.712891,male
+1998,Walter,Kohn,chemistry,Austria,AT,47.516231,14.550072,male
+1999,Ahmed H.,Zewail,chemistry,Egypt,EG,26.820553,30.802498,male
+1999,Gerardus,'t Hooft,physics,the Netherlands,NL,52.132633,5.291266,male
+1999,G�nter,Grass,literature,Free City of Danzig (now Poland),PL,51.919438,19.145136,male
+1999,G�nter,Blobel,medicine,Germany (now Poland),PL,51.919438,19.145136,male
+1999,Martinus J.G.,Veltman,physics,the Netherlands,NL,52.132633,5.291266,male
+1999,M�decins Sans Fronti�res,,peace,,,,,organisation
+1999,Robert A.,Mundell,economics,Canada,CA,56.130366,-106.346771,male
+2000,Alan G.,MacDiarmid,chemistry,New Zealand,NZ,-40.900557,174.885971,male
+2000,Alan J.,Heeger,chemistry,USA,US,37.09024,-95.712891,male
+2000,Arvid,Carlsson,medicine,Sweden,SE,60.128161,18.643501,male
+2000,Daniel L.,McFadden,economics,USA,US,37.09024,-95.712891,male
+2000,Eric R.,Kandel,medicine,Austria,AT,47.516231,14.550072,male
+2000,Gao,Xingjian,literature,China,CN,35.86166,104.195397,male
+2000,Herbert,Kroemer,physics,Germany,DE,51.165691,10.451526,male
+2000,Hideki,Shirakawa,chemistry,Japan,JP,36.204824,138.252924,male
+2000,Jack S.,Kilby,physics,USA,US,37.09024,-95.712891,male
+2000,James J.,Heckman,economics,USA,US,37.09024,-95.712891,male
+2000,Kim,Dae-jung,peace,Korea (now South Korea),KR,35.907757,127.766922,male
+2000,Paul,Greengard,medicine,USA,US,37.09024,-95.712891,male
+2000,Zhores I.,Alferov,physics,USSR (now Belarus),BY,53.709807,27.953389,male
+2001,A. Michael,Spence,economics,USA,US,37.09024,-95.712891,male
+2001,Carl E.,Wieman,physics,USA,US,37.09024,-95.712891,male
+2001,Eric A.,Cornell,physics,USA,US,37.09024,-95.712891,male
+2001,George A.,Akerlof,economics,USA,US,37.09024,-95.712891,male
+2001,Joseph E.,Stiglitz,economics,USA,US,37.09024,-95.712891,male
+2001,K. Barry,Sharpless,chemistry,USA,US,37.09024,-95.712891,male
+2001,Kofi,Annan,peace,Gold Coast (now Ghana),GH,7.946527,-1.023194,male
+2001,Leland H.,Hartwell,medicine,USA,US,37.09024,-95.712891,male
+2001,Ryoji,Noyori,chemistry,Japan,JP,36.204824,138.252924,male
+2001,Sir Paul M.,Nurse,medicine,United Kingdom,GB,55.378051,-3.435973,male
+2001,Sir Vidiadhar Surajprasad,Naipaul,literature,Trinidad,TT,10.691803,-61.222503,male
+2001,Tim,Hunt,medicine,United Kingdom,GB,55.378051,-3.435973,male
+2001,United Nations (U.N.),,peace,,,,,organisation
+2001,William S.,Knowles,chemistry,USA,US,37.09024,-95.712891,male
+2001,Wolfgang,Ketterle,physics,West Germany (now Germany),DE,51.165691,10.451526,male
+2002,Daniel,Kahneman,economics,British Mandate of Palestine (now Israel),IL,31.046051,34.851612,male
+2002,H. Robert,Horvitz,medicine,USA,US,37.09024,-95.712891,male
+2002,Kurt,W�thrich,chemistry,Switzerland,CH,46.818188,8.227512,male
+2002,Imre,Kert�sz,literature,Hungary,HU,47.162494,19.503304,male
+2002,Jimmy,Carter,peace,USA,US,37.09024,-95.712891,male
+2002,John B.,Fenn,chemistry,USA,US,37.09024,-95.712891,male
+2002,John E.,Sulston,medicine,United Kingdom,GB,55.378051,-3.435973,male
+2002,Koichi,Tanaka,chemistry,Japan,JP,36.204824,138.252924,male
+2002,Masatoshi,Koshiba,physics,Japan,JP,36.204824,138.252924,male
+2002,Raymond,Davis Jr.,physics,USA,US,37.09024,-95.712891,male
+2002,Riccardo,Giacconi,physics,Italy,IT,41.87194,12.56738,male
+2002,Sydney,Brenner,medicine,South Africa,ZA,-30.559482,22.937506,male
+2002,Vernon L.,Smith,economics,USA,US,37.09024,-95.712891,male
+2003,Alexei A.,Abrikosov,physics,USSR (now Russia),RU,61.52401,105.318756,male
+2003,Anthony J.,Leggett,physics,United Kingdom,GB,55.378051,-3.435973,male
+2003,Clive W.J.,Granger,economics,United Kingdom,GB,55.378051,-3.435973,male
+2003,Roderick,MacKinnon,chemistry,USA,US,37.09024,-95.712891,male
+2003,John M.,Coetzee,literature,South Africa,ZA,-30.559482,22.937506,male
+2003,Paul C.,Lauterbur,medicine,USA,US,37.09024,-95.712891,male
+2003,Peter,Agre,chemistry,USA,US,37.09024,-95.712891,male
+2003,Robert F.,Engle III,economics,USA,US,37.09024,-95.712891,male
+2003,Shirin,Ebadi,peace,Iran,IR,32.427908,53.688046,female
+2003,Sir Peter,Mansfield,medicine,United Kingdom,GB,55.378051,-3.435973,male
+2003,Vitaly L.,Ginzburg,physics,Russia,RU,61.52401,105.318756,male
+2004,Aaron,Ciechanover,chemistry,British Protectorate of Palestine (now Israel),IL,31.046051,34.851612,male
+2004,Avram,Hershko,chemistry,Hungary,HU,47.162494,19.503304,male
+2004,David J.,Gross,physics,USA,US,37.09024,-95.712891,male
+2004,Elfriede,Jelinek,literature,Austria,AT,47.516231,14.550072,female
+2004,Frank,Wilczek,physics,USA,US,37.09024,-95.712891,male
+2004,H. David,Politzer,physics,USA,US,37.09024,-95.712891,male
+2004,Irwin,Rose,chemistry,USA,US,37.09024,-95.712891,male
+2004,Edward C.,Prescott,economics,USA,US,37.09024,-95.712891,male
+2004,Finn E.,Kydland,economics,Norway,NO,60.472024,8.468946,male
+2004,Linda B.,Buck,medicine,USA,US,37.09024,-95.712891,female
+2004,Richard,Axel,medicine,USA,US,37.09024,-95.712891,male
+2004,Wangari Muta,Maathai,peace,Kenya,KE,-0.023559,37.906193,female
+2005,Harold,Pinter,literature,United Kingdom,GB,55.378051,-3.435973,male
+2005,International Atomic Energy Agency (IAEA),,peace,,,,,organisation
+2005,J. Robin,Warren,medicine,Australia,AU,-25.274398,133.775136,male
+2005,Barry J.,Marshall,medicine,Australia,AU,-25.274398,133.775136,male
+2005,John L.,Hall,physics,USA,US,37.09024,-95.712891,male
+2005,Theodor W.,H�nsch,physics,Germany,DE,51.165691,10.451526,male
+2005,Mohamed,ElBaradei,peace,Egypt,EG,26.820553,30.802498,male
+2005,Richard R.,Schrock,chemistry,USA,US,37.09024,-95.712891,male
+2005,Robert H.,Grubbs,chemistry,USA,US,37.09024,-95.712891,male
+2005,Robert J.,Aumann,economics,Germany,DE,51.165691,10.451526,male
+2005,Roy J.,Glauber,physics,USA,US,37.09024,-95.712891,male
+2005,Thomas C.,Schelling,economics,USA,US,37.09024,-95.712891,male
+2005,Yves,Chauvin,chemistry,Belgium,BE,50.503887,4.469936,male
+2006,Andrew Z.,Fire,medicine,USA,US,37.09024,-95.712891,male
+2006,Craig C.,Mello,medicine,USA,US,37.09024,-95.712891,male
+2006,Edmund S.,Phelps,economics,USA,US,37.09024,-95.712891,male
+2006,George F.,Smoot,physics,USA,US,37.09024,-95.712891,male
+2006,Grameen Bank,,peace,,,,,organisation
+2006,John C.,Mather,physics,USA,US,37.09024,-95.712891,male
+2006,Muhammad,Yunus,peace,British India (now Bangladesh),BD,23.684994,90.356331,male
+2006,Orhan,Pamuk,literature,Turkey,TR,38.963745,35.243322,male
+2006,Roger D.,Kornberg,chemistry,USA,US,37.09024,-95.712891,male
+2007,Albert Arnold (Al),Gore Jr.,peace,USA,US,37.09024,-95.712891,male
+2007,Doris,Lessing,literature,Persia (now Iran),IR,32.427908,53.688046,female
+2007,Eric S.,Maskin,economics,USA,US,37.09024,-95.712891,male
+2007,Gerhard,Ertl,chemistry,Germany,DE,51.165691,10.451526,male
+2007,Intergovernmental Panel on Climate Change (IPCC),,peace,,,,,organisation
+2007,Albert,Fert,physics,France,FR,46.227638,2.213749,male
+2007,Leonid,Hurwicz,economics,Russia,RU,61.52401,105.318756,male
+2007,Mario R.,Capecchi,medicine,Italy,IT,41.87194,12.56738,male
+2007,Oliver,Smithies,medicine,United Kingdom,GB,55.378051,-3.435973,male
+2007,Peter,Gr�nberg,physics,Czechoslovakia (now Czech Republic),CZ,49.817492,15.472962,male
+2007,Roger B.,Myerson,economics,USA,US,37.09024,-95.712891,male
+2007,Sir Martin J.,Evans,medicine,United Kingdom,GB,55.378051,-3.435973,male
+2008,Fran�oise,Barr�-Sinoussi,medicine,France,FR,46.227638,2.213749,female
+2008,Harald,zur Hausen,medicine,Germany,DE,51.165691,10.451526,male
+2008,Jean-Marie Gustave,Le Cl�zio,literature,France,FR,46.227638,2.213749,male
+2008,Luc,Montagnier,medicine,France,FR,46.227638,2.213749,male
+2008,Makoto,Kobayashi,physics,Japan,JP,36.204824,138.252924,male
+2008,Martin,Chalfie,chemistry,USA,US,37.09024,-95.712891,male
+2008,Osamu,Shimomura,chemistry,Japan,JP,36.204824,138.252924,male
+2008,Martti,Ahtisaari,peace,Finland,FI,61.92411,25.748151,male
+2008,Roger Y.,Tsien,chemistry,USA,US,37.09024,-95.712891,male
+2008,Toshihide,Maskawa,physics,Japan,JP,36.204824,138.252924,male
+2008,Paul,Krugman,economics,USA,US,37.09024,-95.712891,male
+2008,Yoichiro,Nambu,physics,Japan,JP,36.204824,138.252924,male
+2009,Ada E.,Yonath,chemistry,British Mandate of Palestine (now Israel),IL,31.046051,34.851612,female
+2009,Barack H.,Obama,peace,USA,US,37.09024,-95.712891,male
+2009,Carol W.,Greider,medicine,USA,US,37.09024,-95.712891,female
+2009,Elizabeth H.,Blackburn,medicine,Australia,AU,-25.274398,133.775136,female
+2009,George E.,Smith,physics,USA,US,37.09024,-95.712891,male
+2009,Herta,M�ller,literature,Romania,RO,45.943161,24.96676,female
+2009,Oliver E.,Williamson,economics,USA,US,37.09024,-95.712891,male
+2009,Charles Kuen,Kao,physics,China,CN,35.86166,104.195397,male
+2009,Elinor,Ostrom,economics,USA,US,37.09024,-95.712891,female
+2009,Jack W.,Szostak,medicine,United Kingdom,GB,55.378051,-3.435973,male
+2009,Thomas A.,Steitz,chemistry,USA,US,37.09024,-95.712891,male
+2009,Venkatraman,Ramakrishnan,chemistry,India,IN,20.593684,78.96288,male
+2009,Willard S.,Boyle,physics,Canada,CA,56.130366,-106.346771,male
+2010,Akira,Suzuki,chemistry,Japan,JP,36.204824,138.252924,male
+2010,Andre,Geim,physics,Russia,RU,61.52401,105.318756,male
+2010,Christopher A.,Pissarides,economics,Cyprus,CY,35.126413,33.429859,male
+2010,Ei-ichi,Negishi,chemistry,China,CN,35.86166,104.195397,male
+2010,Konstantin,Novoselov,physics,Russia,RU,61.52401,105.318756,male
+2010,Liu,Xiaobo,peace,China,CN,35.86166,104.195397,male
+2010,Mario,Vargas Llosa,literature,Peru,PE,-9.189967,-75.015152,male
+2010,Peter A.,Diamond,economics,USA,US,37.09024,-95.712891,male
+2010,Richard F.,Heck,chemistry,USA,US,37.09024,-95.712891,male
+2010,Robert G.,Edwards,medicine,United Kingdom,GB,55.378051,-3.435973,male
+2010,Dale T.,Mortensen,economics,USA,US,37.09024,-95.712891,male
+2011,Brian P.,Schmidt,physics,USA,US,37.09024,-95.712891,male
+2011,Christopher A.,Sims,economics,USA,US,37.09024,-95.712891,male
+2011,Dan,Shechtman,chemistry,British Mandate of Palestine (now Israel),IL,31.046051,34.851612,male
+2011,Ellen,Johnson Sirleaf,peace,Liberia,LR,6.428055,-9.429499,female
+2011,Jules A.,Hoffmann,medicine,Luxembourg,LU,49.815273,6.129583,male
+2011,Leymah,Gbowee,peace,Liberia,LR,6.428055,-9.429499,female
+2011,Ralph M.,Steinman,medicine,Canada,CA,56.130366,-106.346771,male
+2011,Adam G.,Riess,physics,USA,US,37.09024,-95.712891,male
+2011,Bruce A.,Beutler,medicine,USA,US,37.09024,-95.712891,male
+2011,Saul,Perlmutter,physics,USA,US,37.09024,-95.712891,male
+2011,Tawakkol,Karman,peace,Yemen,YE,15.552727,48.516388,female
+2011,Thomas J.,Sargent,economics,USA,US,37.09024,-95.712891,male
+2011,Tomas,Transtr�mer,literature,Sweden,SE,60.128161,18.643501,male
+2012,Brian K.,Kobilka,chemistry,USA,US,37.09024,-95.712891,male
+2012,European Union (EU),,peace,,,,,organisation
+2012,Lloyd S.,Shapley,economics,USA,US,37.09024,-95.712891,male
+2012,Mo,Yan,literature,China,CN,35.86166,104.195397,male
+2012,Alvin E.,Roth,economics,USA,US,37.09024,-95.712891,male
+2012,David J.,Wineland,physics,USA,US,37.09024,-95.712891,male
+2012,Robert J.,Lefkowitz,chemistry,USA,US,37.09024,-95.712891,male
+2012,Sir John B.,Gurdon,medicine,United Kingdom,GB,55.378051,-3.435973,male
+2012,Serge,Haroche,physics,Morocco,MA,31.791702,-7.09262,male
+2012,Shinya,Yamanaka,medicine,Japan,JP,36.204824,138.252924,male
+2013,Alice,Munro,literature,Canada,CA,56.130366,-106.346771,female
+2013,Arieh,Warshel,chemistry,British Mandate of Palestine (now Israel),IL,31.046051,34.851612,male
+2013,Eugene F.,Fama,economics,USA,US,37.09024,-95.712891,male
+2013,Fran�ois,Englert,physics,Belgium,BE,50.503887,4.469936,male
+2013,James E.,Rothman,medicine,USA,US,37.09024,-95.712891,male
+2013,Lars Peter,Hansen,economics,USA,US,37.09024,-95.712891,male
+2013,Michael,Levitt,chemistry,South Africa,ZA,-30.559482,22.937506,male
+2013,Organisation for the Prohibition of Chemical Weapons (OPCW),,peace,,,,,organisation
+2013,Peter W.,Higgs,physics,United Kingdom,GB,55.378051,-3.435973,male
+2013,Robert J.,Shiller,economics,USA,US,37.09024,-95.712891,male
+2013,Martin,Karplus,chemistry,Austria,AT,47.516231,14.550072,male
+2013,Randy W.,Schekman,medicine,USA,US,37.09024,-95.712891,male
+2013,Thomas C.,S�dhof,medicine,Germany,DE,51.165691,10.451526,male
+2014,Edvard I.,Moser,medicine,Norway,NO,60.472024,8.468946,male
+2014,Eric,Betzig,chemistry,USA,US,37.09024,-95.712891,male
+2014,Hiroshi,Amano,physics,Japan,JP,36.204824,138.252924,male
+2014,Jean,Tirole,economics,France,FR,46.227638,2.213749,male
+2014,John,O'Keefe,medicine,USA,US,37.09024,-95.712891,male
+2014,Kailash,Satyarthi,peace,India,IN,20.593684,78.96288,male
+2014,Malala,Yousafzai,peace,Pakistan,PK,30.375321,69.345116,female
+2014,May-Britt,Moser,medicine,Norway,NO,60.472024,8.468946,female
+2014,Patrick,Modiano,literature,France,FR,46.227638,2.213749,male
+2014,Shuji,Nakamura,physics,Japan,JP,36.204824,138.252924,male
+2014,Isamu,Akasaki,physics,Japan,JP,36.204824,138.252924,male
+2014,Stefan W.,Hell,chemistry,Romania,RO,45.943161,24.96676,male
+2014,William E.,Moerner,chemistry,USA,US,37.09024,-95.712891,male
+2015,Angus,Deaton,economics,United Kingdom,GB,55.378051,-3.435973,male
+2015,Arthur B.,McDonald,physics,Canada,CA,56.130366,-106.346771,male
+2015,Aziz,Sancar,chemistry,Turkey,TR,38.963745,35.243322,male
+2015,National Dialogue Quartet,,peace,,,,,organisation
+2015,Satoshi,?mura,medicine,Japan,JP,36.204824,138.252924,male
+2015,Svetlana,Alexievich,literature,Ukraine,UA,48.379433,31.16558,female
+2015,Takaaki,Kajita,physics,Japan,JP,36.204824,138.252924,male
+2015,Paul,Modrich,chemistry,USA,US,37.09024,-95.712891,male
+2015,William C.,Campbell,medicine,Ireland,IE,53.41291,-8.24389,male
+2015,Tomas,Lindahl,chemistry,Sweden,SE,60.128161,18.643501,male
+2015,Youyou,Tu,medicine,China,CN,35.86166,104.195397,female
+2016,Bengt,Holmstr�m,economics,Finland,FI,61.92411,25.748151,male
+2016,Bernard L.,Feringa,chemistry,the Netherlands,NL,52.132633,5.291266,male
+2016,Bob,Dylan,literature,USA,US,37.09024,-95.712891,male
+2016,David J.,Thouless,physics,United Kingdom,GB,55.378051,-3.435973,male
+2016,F. Duncan M.,Haldane,physics,United Kingdom,GB,55.378051,-3.435973,male
+2016,J. Michael,Kosterlitz,physics,United Kingdom,GB,55.378051,-3.435973,male
+2016,Jean-Pierre,Sauvage,chemistry,France,FR,46.227638,2.213749,male
+2016,Juan Manuel,Santos,peace,Colombia,CO,4.570868,-74.297333,male
+2016,Oliver,Hart,economics,United Kingdom,GB,55.378051,-3.435973,male
+2016,Sir J. Fraser,Stoddart,chemistry,United Kingdom,GB,55.378051,-3.435973,male
+2016,Yoshinori,Ohsumi,medicine,Japan,JP,36.204824,138.252924,male
