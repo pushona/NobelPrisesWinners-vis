@@ -146,7 +146,7 @@
                 .attr("class", "x-axis")
                 .call(xAxis)
                 .selectAll("text")
-                .attr("dx", ".5em");
+                .style("text-anchor", "start");
 
         }
         function _buildColumnChart (data) { /* Function to build column chart / years */
@@ -164,12 +164,13 @@
                 .on('click', function (d,i) { _onYearClick(i); });
             var width = $('#column-chart').width(), height = $('#column-chart').height();
             var x = d3.scale.linear()
-                .domain([data.year[0], data.year[data.year.length-1]])
+                .domain([data.year[0], data.year[data.year.length-1]]) //[data.year[0], data.year[data.year.length-1]]
                 .range([0, width]);
             var xAxis = d3.svg.axis()
                 .scale(x)
                 .orient("down")
-                .ticks(10);
+                .ticks(10)
+                .tickFormat(d3.format("d"));
             d3.select('#column-chart')
                 .append('svg')
                 .attr("width", width)
@@ -180,7 +181,8 @@
                 .attr("class", "x-axis")
                 .call(xAxis)
                 .selectAll("text")
-                .attr("dx", ".5em");
+                .attr('test', function (d) {console.log(d);})
+                .style("text-anchor", "start");
             var y = d3.scale.linear()
                 .domain([d3.max(data.total), 0])
                 .range([0, 100]);
