@@ -12,7 +12,7 @@
             COLORS: ['#CFD8DC', '#90A4AE', '#607D8B', '#455A64', '#263238'],
             COUNTRY_CODES: null,
             LABELS: ['0 or no data', '1 - 5', '16 - 30', '31 - 100', '100+'],
-            RANGES: [[1,5], [6,15], [16,30], [31,100]]
+            RANGES: [[1,5], [6,15], [16,30], [31,100]] // Workaround: false logarythmic scale. ToDo: change it to true log.
         };
         var data = { /* Here will be all app data */
             isNobelWinnersLoaded: false,
@@ -82,6 +82,7 @@
                 _buildGeoChart();
             });
         }
+        /*Range-slider for Viz 1: Nobel prize winners per year*/
         function setYearsRange () { /* Update view on changed years interval */
             var minIndex = data.year.indexOf(shared.value.min), maxIndex = data.year.indexOf(shared.value.max);
             /* Update column chart */
@@ -106,6 +107,8 @@
             });
             d3.select('#geo-chart').selectAll('path').data(data.geo.countries).style('fill', function(d) {return __numberToColor(data.winnersPerCountry[d.id]);});
         }
+
+        /*Function for building Viz 2: Nobel prize winners per category*/
         function _buildBarChart (data) { /* Function to build bar chart / categories */
             data.categories.forEach(function (item) {
                 data.all.push( data[item].reduce(function (a,b) { return a + b; }, 0) );
@@ -149,6 +152,8 @@
                 .style("text-anchor", "start");
 
         }
+
+        /*Function for building Viz 1: Nobel prize winners per year*/
         function _buildColumnChart (data) { /* Function to build column chart / years */
             cx = d3.scale.linear()
                 .domain([0, d3.max(data.total)])
@@ -199,6 +204,8 @@
                 .attr("class", "y-axis")
                 .call(yAxis);
         }
+
+        /*Functions for building Viz 2: Nobel prize winners per country*/
         function _buildGeoChart () { /* Function to build geo chart / countries */
             if (!data.isWorldMapLoaded || !data.isNobelWinnersLoaded) return; /* All data ready */
             $rootScope.$apply(function(){ /* update data for app controller */
@@ -236,6 +243,7 @@
                 .data(data.geo.countries)
                 .append('title')
                 .text(function (d) { return d.title; });
+            /* create legend for chart */
             d3.select('#geo-chart')
                 .append('div')
                 .attr("class", "legend-container")
@@ -247,6 +255,8 @@
                 .style('background-color', function(d, i) { return i==0 ? '#FFFFFF' : CONST.COLORS[i]; })
                 .text(function (d,i) { return CONST.LABELS[i]; })
         }
+
+        /*Handler function for click event for Viz 2: Nobel prize winners per category, shows them in sidebar */
         function _onCategoryClick (i) { /* click on category */
             var targetCategory = data.categories[i];
             $rootScope.$apply(function () {
@@ -257,6 +267,8 @@
                 });
             });
         }
+
+        /*Handler function for click event for Viz 3: Nobel prize winners per country, shows them in sidebar */
         function _onCountryClick (d) { /* click on country */
             var targetCountry = d.id;
             $rootScope.$apply(function () {
@@ -267,6 +279,8 @@
                 });
             });
         }
+
+        /*Handler function for click event for Viz 1: Nobel prize winners per year, shows them in sidebar */
         function _onYearClick (i) { /* click on year */
             var targetYear = data.year[i];
 
@@ -278,6 +292,8 @@
                 });
             });
         }
+
+        /*Converts numbers of winners to hex colour*/
         function __numberToColor (number) { /* find number in range, assign color */
             if (!number || number === 0) return;
 
